@@ -125,7 +125,7 @@ function render() {
   const counter = document.getElementById("counter");
 
   grid.innerHTML = "";
-
+  console.log("render ejecutado");
   const filtered = streams
     .slice()
     .sort((a, b) => b.date.localeCompare(a.date))
@@ -358,14 +358,13 @@ function openModal(stream) {
       item.onclick = () => openModal(pov);
       modalRelatedPovs.appendChild(item);
     });
-
-  const params = new URLSearchParams(window.location.search);
-  params.set("stream", stream.streamKey);
-  history.pushState({ streamKey: stream.streamKey }, "", `${window.location.pathname}?${params.toString()}`);
   }
 
+const params = new URLSearchParams(window.location.search);
+params.set("stream", stream.streamKey);
+history.pushState({ streamKey: stream.streamKey }, "", `${window.location.pathname}?${params.toString()}`);
 
-  modal.classList.add("open");
+modal.classList.add("open");
 }
 
 function closeModal() {
@@ -466,23 +465,6 @@ window.addEventListener("popstate", () => {
   }
 });
 
-const themeToggle = document.getElementById("themeToggle");
-
-function applyTheme(theme){
-  document.body.classList.toggle("light", theme === "light");
-  themeToggle.textContent = theme === "light" ? "☀️" : "🌙";
-}
-
-themeToggle.onclick = () => {
-  const current = localStorage.getItem("theme") || "dark";
-  const next = current === "dark" ? "light" : "dark";
-
-  localStorage.setItem("theme", next);
-  applyTheme(next);
-};
-
-const savedTheme = localStorage.getItem("theme") || "dark";
-applyTheme(savedTheme);
 
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") {
@@ -714,49 +696,10 @@ function updateArchiveProgress() {
   });
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-document.getElementById("yearFilter").onchange = render;
-document.getElementById("monthFilter").onchange = render;
-document.getElementById("streamerFilter").onchange = render;
-document.getElementById("search").oninput = render;
+document.getElementById("yearFilter").addEventListener("change", render);
+document.getElementById("monthFilter").addEventListener("change", render);
+document.getElementById("streamerFilter").addEventListener("change", render);
+document.getElementById("search").addEventListener("input", render);
 document.getElementById("closeModal").onclick = closeModal;
 
 window.onclick = function (event) {
