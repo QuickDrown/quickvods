@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Archivo de Streams</title>
+
+<style>
+  body{
+    background-color:#08121f;
+    background-image:
+      linear-gradient(rgba(6, 12, 20, 0.82), rgba(6, 12, 20, 0.88)),
+      url("Billie-Eilish-1920x1280.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:24px;
+  }
+
+  h1{
+    text-align:center;
+    margin-bottom:25px;
+    font-size:28px;
+  }
+
+  .controls{
+    display:flex;
+    gap:10px;
+    align-items:center;
+    margin-bottom:10px;
+    flex-wrap:wrap;
+  }
+
+  .controls select,
+  .controls input{
+    background:#1c1c1c;
+    border:1px solid #333;
+    color:white;
+    padding:8px 10px;
+    border-radius:8px;
+    font-size:14px;
+  }
+
+  .controls input{
+    width:200px;
+  }
+
+  #counter{
+    margin-bottom:20px;
+    color:#bdbdbd;
+    font-size:14px;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fill,minmax(270px,1fr));
+    gap:18px;
+  }
+
+  .card{
+    background:#1c1c1c;
+    border-radius:14px;
+    transition:transform 0.15s ease, box-shadow 0.15s ease;
+    overflow:hidden;
+  }
+
+  .card:hover{
+    transform:translateY(-4px);
+    box-shadow:0 8px 24px rgba(0,0,0,0.45);
+  }
+
+  .card-layout{
+    display:flex;
+    min-height:100%;
+  }
+
+  .card-main{
+    flex:1;
+    padding:10px;
+    cursor:pointer;
+  }
+
+  .card-main > img{
+    width:100%;
+    border-radius:10px;
+    object-fit:cover;
+    aspect-ratio:16/9;
+    margin-bottom:8px;
+    display:block;
+  }
+
+  .card-povs{
+    width:100px;
+    border-left:1px solid #2a2a2a;
+    padding:10px 8px;
+    background:#181818;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+  }
+
+  .povs-title{
+    font-size:12px;
+    color:#9e9e9e;
+    text-transform:uppercase;
+    letter-spacing:0.5px;
+    text-align:center;
+  }
+
+  .povs-list{
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+  }
+
+  .pov-item{
+    border:none;
+    background:#262626;
+    color:#f0f0f0;
+    border-radius:10px;
+    padding:6px 8px;
+    font-size:12px;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    gap:8px;
+    text-align:left;
+    width:100%;
+  }
+
+  .pov-item:hover{
+    background:#353535;
+  }
+
+  .pov-avatar{
+    width:22px;
+    height:22px;
+    border-radius:50%;
+    background:#3a2b55;
+    color:#d6b3ff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:11px;
+    font-weight:bold;
+    flex-shrink:0;
+  }
+
+    .pov-avatar-img{
+    width:22px;
+    height:22px;
+    border-radius:50%;
+    object-fit:cover;
+    display:block;
+    flex-shrink:0;
+  }
+
+  .pov-label{
+    line-height:1.2;
+    flex:1;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+
+  .pov-empty{
+    color:#666;
+    text-align:center;
+    font-size:12px;
+    padding-top:8px;
+  }
+
+  .fecha{
+    font-weight:bold;
+    font-size:14px;
+    color:#6ec1ff;
+  }
+
+  .hora{
+    color:#aaa;
+    font-size:13px;
+    margin-bottom:4px;
+  }
+
+  .titulo{
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+    font-size:14px;
+    line-height:1.3;
+    min-height:36px;
+  }
+
+  .mini-meta{
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px;
+    margin-top:8px;
+  }
+
+  .badge-streamer,
+  .badge-highlight,
+  .badge-muted,
+  .badge-collab,
+  .badge-long-stream{
+    font-size:12px;
+    padding:4px 7px;
+    border-radius:999px;
+    display:inline-block;
+  }
+
+  .badge-streamer{
+    background:#24303d;
+    color:#9fd0ff;
+  }
+
+  .badge-highlight{
+    background:#3a2f14;
+    color:#ffd76b;
+  }
+
+  .badge-muted{
+    background:#252525;
+    color:#9e9e9e;
+  }
+
+    .badge-collab{
+    background:#2a2238;
+    color:#d6b3ff;
+  }
+
+  .badge-long-stream{
+    background:#213226;
+    color:#9fe3a8;
+  }
+
+  .badge-long-stream.danger{
+    background:#3a1f1f;
+    color:#ff9c9c;
+  }
+
+  .modal{
+    display:none;
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,0.82);
+    z-index:999;
+    padding:30px;
+    box-sizing:border-box;
+    overflow:auto;
+  }
+
+  .modal.open{
+    display:block;
+  }
+
+  .modal-content{
+    max-width:1400px;
+    margin:0 auto;
+    background:#181818;
+    border-radius:16px;
+    padding:20px;
+    position:relative;
+  }
+
+  .close-btn{
+    position:absolute;
+    top:12px;
+    right:16px;
+    background:none;
+    border:none;
+    color:white;
+    font-size:28px;
+    cursor:pointer;
+  }
+
+  .modal-title{
+    font-size:24px;
+    margin-bottom:8px;
+    padding-right:40px;
+  }
+
+  .modal-info{
+    color:#bdbdbd;
+    margin-bottom:16px;
+  }
+
+  .modal-layout{
+    display:grid;
+    grid-template-columns: minmax(0, 2.2fr) minmax(280px, 1fr);
+    gap:20px;
+    align-items:start;
+  }
+
+  .modal-left,
+  .modal-right{
+    min-width:0;
+  }
+
+  .modal-main{
+    width:100%;
+    max-height:70vh;
+    object-fit:contain;
+    border-radius:12px;
+    background:#101010;
+    margin-bottom:18px;
+  }
+
+  .modal-right{
+    background:#141414;
+    border:1px solid #262626;
+    border-radius:12px;
+    padding:14px;
+  }
+
+  .section-title{
+    font-size:18px;
+    margin:18px 0 10px;
+  }
+
+  .highlights-grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
+    gap:12px;
+  }
+
+  .highlight-thumb{
+    width:100%;
+    border-radius:10px;
+    cursor:pointer;
+    object-fit:cover;
+    aspect-ratio:16/9;
+    transition:transform 0.15s ease;
+    display:block;
+  }
+
+  .highlight-thumb:hover{
+    transform:scale(1.03);
+  }
+
+  .related-povs-grid{
+    display:grid;
+    grid-template-columns:1fr;
+    gap:12px;
+  }
+
+  .related-pov-card{
+    border:none;
+    background:#202020;
+    color:white;
+    border-radius:10px;
+    padding:8px;
+    cursor:pointer;
+    text-align:left;
+    width:100%;
+  }
+
+  .related-pov-card:hover{
+    background:#2a2a2a;
+  }
+.related-pov-card > img{
+  width:100%;
+  border-radius:8px;
+  object-fit:cover;
+  aspect-ratio:16/9;
+  margin-bottom:8px;
+  display:block;
+}
+
+  .related-pov-name{
+    font-size:13px;
+    color:#dcdcdc;
+    word-break:break-word;
+  }
+
+  .related-pov-meta{
+    margin-top:4px;
+    font-size:12px;
+    color:#9f9f9f;
+    line-height:1.35;
+  }
+
+  .sin-destacados{
+    color:#bdbdbd;
+    font-size:15px;
+    padding:8px 0;
+  }
+
+    .related-pov-header{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    margin-bottom:4px;
+  }
+
+  .related-pov-avatar,
+  .related-pov-avatar-fallback{
+    width:24px;
+    height:24px;
+    border-radius:50%;
+    flex-shrink:0;
+  }
+
+  .related-pov-avatar{
+    object-fit:cover;
+    display:block;
+  }
+
+  .related-pov-avatar-fallback{
+    background:#3a2b55;
+    color:#d6b3ff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:12px;
+    font-weight:bold;
+  }
+
+.badge-streamer{
+  background:#24303d;
+  color:#9fd0ff;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:6px;
+  max-width:100%;
+  line-height:1;
+  padding:5px 8px;
+  vertical-align:middle;
+  white-space:nowrap;
+}
+
+.badge-streamer-avatar,
+.badge-streamer-avatar-fallback{
+  width:16px;
+  height:16px;
+  min-width:16px;
+  min-height:16px;
+  border-radius:50%;
+  flex-shrink:0;
+}
+
+.badge-streamer-avatar{
+  width:16px;
+  height:16px;
+  min-width:16px;
+  min-height:16px;
+  border-radius:50%;
+  object-fit:cover;
+  display:block;
+  margin:0;
+  aspect-ratio:auto;
+}
+
+.badge-streamer-avatar-fallback{
+  background:#3a2b55;
+  color:#d6b3ff;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:10px;
+  font-weight:bold;
+  line-height:1;
+}
+
+.badge-streamer-text{
+  display:inline-flex;
+  align-items:center;
+  line-height:1;
+  white-space:nowrap;
+}
+
+  .related-pov-badges{
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px;
+    margin-top:8px;
+  }
+
+  .related-pov-badges .badge-streamer,
+  .related-pov-badges .badge-highlight,
+  .related-pov-badges .badge-muted,
+  .related-pov-badges .badge-collab,
+  .related-pov-badges .badge-long-stream{
+    font-size:11px;
+    padding:4px 7px;
+  }
+
+
+  .modal-streamer{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    color:#9fd0ff;
+    font-weight:500;
+  }
+
+  .modal-streamer-avatar{
+    width:18px;
+    height:18px;
+    border-radius:50%;
+    object-fit:cover;
+    margin:0;
+    flex-shrink:0;
+  }
+
+  .modal-streamer-avatar-fallback{
+    width:18px;
+    height:18px;
+    border-radius:50%;
+    background:#3a2b55;
+    color:#d6b3ff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:11px;
+    font-weight:bold;
+  }
+
+  body.light{
+    background:#f4f4f4;
+    color:#111;
+  }
+
+  body.light .card{
+    background:white;
+  }
+
+  body.light .card-povs{
+    background:#f0f0f0;
+    border-left:1px solid #ddd;
+  }
+
+  body.light .controls select,
+  body.light .controls input{
+    background:white;
+    color:#111;
+    border:1px solid #ccc;
+  }
+
+  body.light .modal-content{
+    background:white;
+  }
+
+  body.light .badge-muted{
+    background:#eaeaea;
+    color:#555;
+  }
+
+  .card-layout:has(.card-povs){
+    display:flex;
+  }
+
+  .card-layout:not(:has(.card-povs)) .card-main{
+    width:100%;
+  }
+
+  .thumb-wrap{
+    position:relative;
+    margin-bottom:8px;
+  }
+
+  .thumb-wrap > img{
+    width:100%;
+    border-radius:10px;
+    object-fit:cover;
+    aspect-ratio:16/9;
+    display:block;
+  }
+
+  .vod-status-badge{
+    position:absolute;
+    top:8px;
+    right:8px;
+    width:28px;
+    height:28px;
+    border-radius:999px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:14px;
+    background:rgba(0,0,0,0.72);
+    backdrop-filter:blur(4px);
+    box-shadow:0 2px 8px rgba(0,0,0,0.3);
+    z-index:2;
+  }
+
+  .vod-status-badge.status-available{
+    border:1px solid rgba(80,220,120,0.45);
+  }
+
+  .vod-status-badge.status-missing{
+    border:1px solid rgba(255,90,90,0.45);
+  }
+
+  .vod-status-badge.status-searching{
+    border:1px solid rgba(255,210,90,0.45);
+  }
+
+  .vod-status-badge.status-trade{
+    border:1px solid rgba(120,180,255,0.45);
+  }
+
+  .vod-status-panel{
+    margin-bottom:16px;
+    padding:10px 12px;
+    border-radius:10px;
+    background:#1b1b1b;
+    border:1px solid #2a2a2a;
+  }
+
+  .vod-status-line{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-weight:600;
+  }
+
+  .vod-status-panel-icon{
+    font-size:16px;
+  }
+
+  .vod-status-help{
+    margin-top:8px;
+    font-size:14px;
+    color:#bdbdbd;
+    line-height:1.4;
+  }
+
+  .vod-status-link{
+    margin-left:8px;
+    color:#9fd0ff;
+    text-decoration:none;
+  }
+
+  .vod-status-link:hover{
+    text-decoration:underline;
+  }
+
+  .vod-status-panel.status-available{
+    border-color:rgba(80,220,120,0.3);
+  }
+
+  .vod-status-panel.status-missing{
+    border-color:rgba(255,90,90,0.3);
+  }
+
+  .vod-status-panel.status-searching{
+    border-color:rgba(255,210,90,0.3);
+  }
+
+  .vod-status-panel.status-trade{
+    border-color:rgba(120,180,255,0.3);
+  }
+
+  .vod-status-actions{
+    margin-top:10px;
+    display:flex;
+    align-items:center;
+    gap:12px;
+    flex-wrap:wrap;
+  }
+
+  .vod-copy-btn{
+    background:#2a2a2a;
+    color:white;
+    border:1px solid #3a3a3a;
+    border-radius:8px;
+    padding:6px 10px;
+    font-size:13px;
+    cursor:pointer;
+    width:fit-content;
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+    transition:all 0.2s ease;
+  }
+
+  .vod-copy-btn:hover{
+    background:#353535;
+  }
+
+  .vod-copy-btn.copied{
+    background:#1f6f43;
+    border-color:#1f6f43;
+    color:#d4ffe6;
+  }
+
+  .vod-contact-text{
+    font-size:14px;
+    color:#bdbdbd;
+  }
+
+  .vod-discord{
+    color:#9fd0ff;
+    font-weight:600;
+  }
+
+  .vod-stats{
+    text-align:center;
+    margin-top:6px;
+    color:#bdbdbd;
+    font-size:14px;
+  }
+
+  .progress-wrap{
+    max-width:560px;
+    margin:12px auto 6px;
+  }
+
+  .progress-bar{
+    width:100%;
+    height:12px;
+    background:#1f1f1f;
+    border:1px solid #2d2d2d;
+    border-radius:999px;
+    overflow:hidden;
+    box-shadow:inset 0 1px 2px rgba(0,0,0,0.35);
+  }
+
+  .progress-fill{
+    height:100%;
+    width:0%;
+    background:linear-gradient(90deg,#3b82f6,#22c55e);
+    border-radius:999px;
+    transition:width 0.9s ease;
+  }
+
+  .progress-text{
+    text-align:center;
+    margin-top:8px;
+    color:#d0d0d0;
+    font-size:13px;
+  }
+
+  .top-links{
+    text-align:center;
+    margin-top:10px;
+  }
+
+  .missing-link{
+    color:#ff9f9f;
+    text-decoration:none;
+    font-size:14px;
+  }
+
+  .missing-link:hover{
+    text-decoration:underline;
+  }
+
+  .private-banner{
+    text-align:center;
+    margin-bottom:10px;
+    color:#b1261c;
+    font-size:20px;
+    letter-spacing:0.3px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media (max-width: 1000px){
+    .modal-layout{
+      grid-template-columns:1fr;
+    }
+
+    .modal-right{
+      padding:12px;
+    }
+  }
+</style>
+</head>
+<body>
+
+  <h1>Archivo de Streams</h1>
+  <div id="vodStats" class="vod-stats"></div>
+  <div class="progress-wrap">
+    <div class="progress-bar">
+      <div id="vodProgressFill" class="progress-fill"></div>
+    </div>
+    <div id="vodProgressText" class="progress-text"></div>
+  </div>
+  <div class="top-links">
+    <a href="missing.html" class="missing-link">Ver VODs faltantes</a>
+  </div>
+
+  <div class="controls">
+    <label for="yearFilter">Año</label>
+    <select id="yearFilter"></select>
+
+    <label for="monthFilter">Mes</label>
+    <select id="monthFilter">
+      <option value="">Todos</option>
+      <option value="01">01</option>
+      <option value="02">02</option>
+      <option value="03">03</option>
+      <option value="04">04</option>
+      <option value="05">05</option>
+      <option value="06">06</option>
+      <option value="07">07</option>
+      <option value="08">08</option>
+      <option value="09">09</option>
+      <option value="10">10</option>
+      <option value="11">11</option>
+      <option value="12">12</option>
+    </select>
+
+    <label for="streamerFilter">Streamer</label>
+    <select id="streamerFilter"></select>
+
+    <label for="search">Buscar</label>
+    <input id="search" placeholder="">
+    <button id="themeToggle" class="theme-toggle">🌙</button>
+  </div>
+
+  <div id="counter"></div>
+  <div class="grid" id="grid"></div>
+
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <button class="close-btn" id="closeModal">&times;</button>
+
+      <div class="modal-title" id="modalTitle"></div>
+      <div class="modal-info" id="modalInfo"></div>
+      <div id="modalStatus"></div>
+
+      <div class="modal-layout">
+        <div class="modal-left">
+          <img class="modal-main" id="modalMainImage" src="" alt="">
+
+          <div class="section-title">Momentos destacados</div>
+          <div class="highlights-grid" id="modalHighlights"></div>
+        </div>
+
+        <div class="modal-right">
+          <div class="section-title">Otros POVs disponibles</div>
+          <div class="related-povs-grid" id="modalRelatedPovs"></div>
+        </div>
+      </div>
+</div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
