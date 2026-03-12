@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>VODs faltantes</title>
+  <link rel="icon" type="image/png" href="favicon.png">
   <style>
     body{
     background-color:#08121f;
@@ -378,6 +379,101 @@
     font-size:13px;
     }
 
+    .card{
+  position:relative;
+}
+
+.card-event{
+  border:2px solid #b46cff;
+  background:
+    radial-gradient(
+      circle at bottom,
+      rgba(180,108,255,0.18),
+      rgba(180,108,255,0.05) 40%,
+      transparent 70%
+    ),
+    #1c1c1c;
+
+  box-shadow:
+    0 0 10px rgba(180,108,255,0.6),
+    0 0 25px rgba(180,108,255,0.4),
+    0 0 50px rgba(180,108,255,0.2);
+
+  animation:eventGlowPurple 3s ease-in-out infinite;
+}
+
+@keyframes eventGlowPurple{
+  0%,100%{
+    box-shadow:
+      0 0 10px rgba(180,108,255,0.45),
+      0 0 22px rgba(180,108,255,0.25);
+  }
+
+  50%{
+    box-shadow:
+      0 0 18px rgba(180,108,255,0.9),
+      0 0 40px rgba(180,108,255,0.45),
+      0 0 70px rgba(180,108,255,0.25);
+  }
+}
+
+.card-event-badge{
+  position:absolute;
+  top:0;
+  left:0;
+
+  width:22px;
+  height:22px;
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  background:#b46cff;
+  color:white;
+
+  font-size:12px;
+  font-weight:bold;
+
+  border-radius:8px 0 8px 0;
+
+  z-index:5;
+  box-shadow:0 0 6px rgba(180,108,255,0.7);
+}
+
+.modal-content{
+  border:1px solid transparent;
+}
+
+.modal-content.modal-event{
+  border:2px solid #b46cff !important;
+  background:
+    radial-gradient(
+      circle at top,
+      rgba(180,108,255,0.18),
+      rgba(180,108,255,0.06) 35%,
+      rgba(24,24,24,1) 78%
+    ),
+    #181818 !important;
+
+  box-shadow:
+    0 0 18px rgba(180,108,255,0.42),
+    0 0 42px rgba(180,108,255,0.20) !important;
+}
+
+.modal-content.modal-event .vod-status-panel{
+  border-color:rgba(180,108,255,0.28);
+}
+
+.modal-content.modal-event .modal-title{
+  color:#ead8ff;
+}
+
+
+
+
+
+
 
 
 
@@ -542,10 +638,19 @@
 
     function openModal(stream) {
       const modal = document.getElementById("modal");
+      const modalContent = document.querySelector(".modal-content");
       const modalTitle = document.getElementById("modalTitle");
       const modalInfo = document.getElementById("modalInfo");
       const modalMainImage = document.getElementById("modalMainImage");
       const modalStatus = document.getElementById("modalStatus");
+
+      
+      modalContent.classList.remove("modal-event");
+
+      if (stream.event === "special") {
+        modalContent.classList.add("modal-event");
+      }
+
 
       modalTitle.textContent = stream.title;
       modalInfo.innerHTML = `
@@ -568,6 +673,7 @@
 
     function closeModal() {
       document.getElementById("modal").classList.remove("open");
+      document.querySelector(".modal-content").classList.remove("modal-event");
     }
 
     function renderMissingVodPage() {
@@ -593,9 +699,18 @@
         const card = document.createElement("div");
         card.className = "card";
 
+        if (s.event === "special") {
+          card.classList.add("card-event");
+        }
+
+        const eventBadge = s.event === "special"
+          ? `<div class="card-event-badge">⭐</div>`
+          : "";
+
         card.innerHTML = `
           <div class="card-main">
             <div class="thumb-wrap">
+              ${eventBadge}
               <img src="${s.image}" alt="${escapeHtml(s.title)}">
               <div class="vod-status-badge ${status.className}" title="${status.label}">${status.icon}</div>
             </div>

@@ -160,13 +160,22 @@ function render() {
 
     if (relatedPOVs.length > 0) {
       const povListHtml = relatedPOVs.map(pov => `
-        <button class="pov-item" data-stream-key="${escapeHtml(pov.streamKey)}" title="${escapeHtml(pov.streamer)}">
+        <button
+          class="pov-bubble"
+          data-stream-key="${escapeHtml(pov.streamKey)}"
+          data-name="${escapeHtml(pov.streamer)}"
+          aria-label="${escapeHtml(pov.streamer)}"
+        >
           ${
             pov.avatar
-              ? `<img class="pov-avatar-img" src="${pov.avatar}" alt="${escapeHtml(pov.streamer)}">`
+              ? `<img class="pov-avatar-img" 
+                  src="${pov.avatar}" 
+                  alt="${escapeHtml(pov.streamer)}" 
+                  loading="lazy" 
+                  decoding="async"
+                  >`
               : `<span class="pov-avatar">${escapeHtml(pov.streamer.charAt(0).toUpperCase())}</span>`
           }
-          <span class="pov-label">${escapeHtml(pov.streamer)}</span>
         </button>
       `).join("");
 
@@ -183,6 +192,14 @@ function render() {
     const card = document.createElement("div");
     card.className = "card";
 
+    if (s.event === "special") {
+      card.classList.add("card-event");
+    }
+
+    const eventBadge = s.event === "special"
+      ? `<div class="card-event-badge">⭐</div>`
+      : "";
+
     card.innerHTML = `
       <div class="card-layout">
         <div class="card-main" data-open-stream="${escapeHtml(s.streamKey)}">
@@ -190,6 +207,7 @@ function render() {
             const status = getStatusInfo(s);
             return `
               <div class="thumb-wrap">
+                ${eventBadge}
                 <img src="${s.image}" alt="${escapeHtml(s.title)}">
                 ${
                   status.icon
@@ -238,13 +256,16 @@ function bindCardEvents() {
       if (stream) openModal(stream);
     };
   });
-
-  document.querySelectorAll(".pov-item").forEach(btn => {
-    btn.onclick = (e) => {
+  document.querySelectorAll(".pov-bubble").forEach(button => {
+    button.onclick = (e) => {
       e.stopPropagation();
-      const key = btn.getAttribute("data-stream-key");
-      const stream = streams.find(s => s.streamKey === key);
-      if (stream) openModal(stream);
+
+      const streamKey = button.dataset.streamKey;
+      const povStream = streams.find(s => s.streamKey === streamKey);
+
+      if (povStream) {
+        openModal(povStream);
+      }
     };
   });
 }
@@ -253,12 +274,25 @@ function openModal(stream) {
   currentStream = stream;
 
   const modal = document.getElementById("modal");
+  const modalContent = document.querySelector(".modal-content");
   const modalTitle = document.getElementById("modalTitle");
   const modalInfo = document.getElementById("modalInfo");
   const modalMainImage = document.getElementById("modalMainImage");
   const modalHighlights = document.getElementById("modalHighlights");
   const modalRelatedPovs = document.getElementById("modalRelatedPovs");
   const modalStatus = document.getElementById("modalStatus");
+
+  modalContent.classList.remove("modal-event");
+
+  if (stream.event === "special") {
+    modalContent.classList.add("modal-event");
+  }
+
+  modalTitle.textContent = stream.title;
+
+
+
+
 
   modalTitle.textContent = stream.title;
   modalInfo.innerHTML = `
@@ -330,11 +364,13 @@ function openModal(stream) {
   history.pushState({ streamKey: stream.streamKey }, "", `${window.location.pathname}?${params.toString()}`);
   }
 
+
   modal.classList.add("open");
 }
 
 function closeModal() {
   document.getElementById("modal").classList.remove("open");
+  document.querySelector(".modal-content").classList.remove("modal-event");
 
   const params = new URLSearchParams(window.location.search);
   params.delete("stream");
@@ -588,11 +624,25 @@ function updateVodStats(){
 
   const percent = total > 0 ? Math.round((archived / total) * 100) : 0;
 
-  stats.innerHTML =
-    `VODs archivados: <b>${archived}</b> · ` +
-    `VODs faltantes: <b>${missing}</b>` +
-    (searching > 0 ? ` · Buscando: <b>${searching}</b>` : "") +
-    (trade > 0 ? ` · Intercambio: <b>${trade}</b>` : "");
+  stats.innerHTML = `
+    <span class="stat archived">
+      VODs archivados <b>${archived}</b>
+    </span>
+
+    <span class="stat missing">
+      VODs faltantes <b>${missing}</b>
+    </span>
+
+    ${searching > 0 ? `
+      <span class="stat searching">
+        Buscando <b>${searching}</b>
+      </span>` : ""}
+
+    ${trade > 0 ? `
+      <span class="stat trade">
+        Intercambio <b>${trade}</b>
+      </span>` : ""}
+  `;
 
   progressText.innerHTML = `Progreso del archivo: <b>${archived}</b> / <b>${total}</b> (${percent}%)`;
 
@@ -620,7 +670,11 @@ function renderMissingVodPage(){
 
       card.innerHTML = `
         <div class="card-main">
-          <img src="${s.image}">
+          <img 
+          src="${s.image}" 
+          loading="lazy"
+          decoding="async"
+          alt="${escapeHtml(s.title)}">
           <div class="fecha">${s.day}-${s.month}-${s.year}</div>
           <div class="hora">${s.startTime} → ${s.endTime}</div>
           <div class="titulo">${escapeHtml(s.title)}</div>
