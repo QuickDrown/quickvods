@@ -147,7 +147,11 @@ function render() {
       return true;
     });
 
-  counter.textContent = `Mostrando ${filtered.length} stream${filtered.length === 1 ? "" : "s"}`;
+  const totalSizeMB = filtered.reduce((sum, s) => sum + parseSizeToMB(s.size), 0);
+  const totalSizeText = formatTotalSizeFromMB(totalSizeMB);
+
+  counter.textContent =
+    `Mostrando ${filtered.length} stream${filtered.length === 1 ? "" : "s"} · Peso total: ${totalSizeText}`;  
 
   filtered.forEach(s => {
     const relatedPOVs = getRelatedPOVs(s);
@@ -218,7 +222,7 @@ function render() {
             `;
           })()}
           <div class="fecha">${s.day}-${s.month}-${s.year}</div>
-          <div class="hora">${s.startTime} → ${s.endTime} · ${s.durationText}</div>
+          <div class="hora">${s.startTime} → ${s.endTime} · ${s.durationText}${s.size ? ` · ${escapeHtml(s.size)}` : ""}</div>
           <div class="titulo">${escapeHtml(s.title)}</div>
           <div class="mini-meta">
           <span class="badge-streamer">
@@ -307,6 +311,7 @@ function openModal(stream) {
     · ${stream.day}-${stream.month}-${stream.year}
     · ${stream.startTime} → ${stream.endTime}
     · ${stream.durationText}
+    ${stream.size ? ` · ${escapeHtml(stream.size)}` : ""}
   `;
   modalMainImage.src = stream.image;
   modalMainImage.alt = stream.title;
@@ -695,6 +700,63 @@ function updateArchiveProgress() {
     fill.style.width = percent + "%";
   });
 }
+
+function parseSizeToMB(sizeText) {
+  if (!sizeText) return 0;
+
+  const text = sizeText.trim().toUpperCase().replace(",", ".");
+  const match = text.match(/^([\d.]+)\s*(MB|GB|TB)$/);
+
+  if (!match) return 0;
+
+  const value = parseFloat(match[1]);
+  const unit = match[2];
+
+  if (unit === "MB") return value;
+  if (unit === "GB") return value * 1024;
+  if (unit === "TB") return value * 1024 * 1024;
+
+  return 0;
+}
+
+function formatTotalSizeFromMB(totalMB) {
+  if (totalMB >= 1024 * 1024) {
+    return `${(totalMB / (1024 * 1024)).toFixed(2)} TB`;
+  }
+
+  if (totalMB >= 1024) {
+    return `${(totalMB / 1024).toFixed(2)} GB`;
+  }
+
+  return `${Math.round(totalMB)} MB`;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 document.getElementById("yearFilter").addEventListener("change", render);
 document.getElementById("monthFilter").addEventListener("change", render);

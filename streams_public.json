@@ -15,13 +15,14 @@
     "durationMinutes": 146,
     "durationText": "2h 26m",
     "slug": "2026-01-31_22-39_alistandome-para-ir-a-la-fiesta-de-zully",
-    "collabId": "",
+    "collabId": "31-01-2026_get_ready",
     "highlightCount": 0,
     "highlights": [],
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-02-2026_20-24 - 28-02-2026_22-40 - COCINANDO AREPAS CON EMIKUKIS Y SERA jiijij ojojojoj.jpg",
@@ -45,7 +46,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-02-2026_18-40 - 26-02-2026_23-50 - YENDO AL EVENTO DE EMIKUKIS CON MI MEJOR AMIGA SERAPHINE ijiijj ojojjo.jpg",
@@ -69,7 +71,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-02-2026_19-48 - 24-02-2026_22-15 - ARENALES CON AJINOMIN THERIAN🩵.jpg",
@@ -93,55 +96,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "24-02-2026_19-44 - 24-02-2026_19-50 - ARENALES CON AJINOMIN THERIAN🩵.jpg",
-    "streamer": "ajinomin",
-    "streamKey": "ajinomin/24-02-2026_19-44 - 24-02-2026_19-50 - ARENALES CON AJINOMIN THERIAN🩵.jpg",
-    "image": "thumbnails/ajinomin/24-02-2026_19-44 - 24-02-2026_19-50 - ARENALES CON AJINOMIN THERIAN🩵.jpg?v=1772980056",
-    "avatar": "avatars/ajinomin.png?v=1773047138",
-    "title": "ARENALES CON AJINOMIN THERIAN🩵",
-    "day": "24",
-    "month": "02",
-    "year": "2026",
-    "date": "2026-02-24",
-    "startTime": "19:44",
-    "endTime": "19:50",
-    "durationMinutes": 6,
-    "durationText": "6m",
-    "slug": "2026-02-24_19-44_arenales-con-ajinomin-therian",
-    "collabId": "24-02-2026_arenales",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "24-02-2026_19-41 - 24-02-2026_19-45 - ARENALES CON AJINOMIN THERIAN🩵.jpg",
-    "streamer": "ajinomin",
-    "streamKey": "ajinomin/24-02-2026_19-41 - 24-02-2026_19-45 - ARENALES CON AJINOMIN THERIAN🩵.jpg",
-    "image": "thumbnails/ajinomin/24-02-2026_19-41 - 24-02-2026_19-45 - ARENALES CON AJINOMIN THERIAN🩵.jpg?v=1772980050",
-    "avatar": "avatars/ajinomin.png?v=1773047138",
-    "title": "ARENALES CON AJINOMIN THERIAN🩵",
-    "day": "24",
-    "month": "02",
-    "year": "2026",
-    "date": "2026-02-24",
-    "startTime": "19:41",
-    "endTime": "19:45",
-    "durationMinutes": 4,
-    "durationText": "4m",
-    "slug": "2026-02-24_19-41_arenales-con-ajinomin-therian",
-    "collabId": "24-02-2026_arenales",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-02-2026_22-40 - 21-02-2026_00-35 - PIJAMADA DE GIRLS🎀💅🏻.jpg",
@@ -165,7 +121,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-02-2026_21-18 - 20-02-2026_22-40 - PIJAMADA DE GIRLS🎀💅🏻.jpg",
@@ -189,7 +146,83 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "13-03-2026_13-07 - 13-03-2026_16-22 - ENSEÑANDO TAEKWONDO A DAARICK, ANTONYCRA, GLOGLOKING, ALEKYUS, EMETSUKI Y MAS!!!🥋.png",
+    "streamer": "ajinomin",
+    "streamKey": "ajinomin/13-03-2026_13-07 - 13-03-2026_16-22 - ENSEÑANDO TAEKWONDO A DAARICK, ANTONYCRA, GLOGLOKING, ALEKYUS, EMETSUKI Y MAS!!!🥋.png",
+    "image": "thumbnails/ajinomin/13-03-2026_13-07 - 13-03-2026_16-22 - ENSEÑANDO TAEKWONDO A DAARICK, ANTONYCRA, GLOGLOKING, ALEKYUS, EMETSUKI Y MAS!!!🥋.png?v=1773486027",
+    "avatar": "avatars/ajinomin.png?v=1773047138",
+    "title": "ENSEÑANDO TAEKWONDO A DAARICK, ANTONYCRA, GLOGLOKING, ALEKYUS, EMETSUKI Y MAS!!!🥋",
+    "day": "13",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-13",
+    "startTime": "13:07",
+    "endTime": "16:22",
+    "durationMinutes": 195,
+    "durationText": "3h 15m",
+    "slug": "2026-03-13_13-07_ensenando-taekwondo-a-daarick-antonycra-glogloking-alekyus-emetsuki-y-mas",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": "4.61 GB"
+  },
+  {
+    "filename": "13-03-2026_13-29 - 13-03-2026_18-39 - TAE CUANDO CON ÑOJUDOS Y UN TAL ANTONICRAFT.png",
+    "streamer": "antonicratv",
+    "streamKey": "antonicratv/13-03-2026_13-29 - 13-03-2026_18-39 - TAE CUANDO CON ÑOJUDOS Y UN TAL ANTONICRAFT.png",
+    "image": "thumbnails/antonicratv/13-03-2026_13-29 - 13-03-2026_18-39 - TAE CUANDO CON ÑOJUDOS Y UN TAL ANTONICRAFT.png?v=1773488822",
+    "avatar": "avatars/antonicratv.png?v=1773488880",
+    "title": "TAE CUANDO CON ÑOJUDOS Y UN TAL ANTONICRAFT",
+    "day": "13",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-13",
+    "startTime": "13:29",
+    "endTime": "18:39",
+    "durationMinutes": 310,
+    "durationText": "5h 10m",
+    "slug": "2026-03-13_13-29_tae-cuando-con-nojudos-y-un-tal-antonicraft",
+    "collabId": "13-03-2026_taekwondo",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": "4.75 GB"
+  },
+  {
+    "filename": "13-03-2026_13-35 - 13-03-2026_20-00 - IRL APRENDIENDO TAEKWONDO + SETUP.png",
+    "streamer": "daarick",
+    "streamKey": "daarick/13-03-2026_13-35 - 13-03-2026_20-00 - IRL APRENDIENDO TAEKWONDO + SETUP.png",
+    "image": "thumbnails/daarick/13-03-2026_13-35 - 13-03-2026_20-00 - IRL APRENDIENDO TAEKWONDO + SETUP.png?v=1773493835",
+    "avatar": "avatars/daarick.png?v=1773493912",
+    "title": "IRL APRENDIENDO TAEKWONDO + SETUP",
+    "day": "13",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-13",
+    "startTime": "13:35",
+    "endTime": "20:00",
+    "durationMinutes": 385,
+    "durationText": "6h 25m",
+    "slug": "2026-03-13_13-35_irl-aprendiendo-taekwondo-setup",
+    "collabId": "13-03-2026_taekwondo",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": "16.7 GB"
   },
   {
     "filename": "24-02-2026_19-47 - 24-02-2026_21-50 - IRL EN ARENALES CON @AJINOMIN @Emikukis @seraphine_yue ME BAJO A LOS THERIANS QUE ME ENCUENTRE.jpg",
@@ -213,7 +246,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-01-2026_18-29 - 29-01-2026_01-45 - 🥳 CHUPISTREAM POR CUMPLEAÑOS DE SERA, VAMOOOS GO VARIEDAD 😎.jpg",
@@ -237,7 +271,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "27-02-2026_14-55 - 27-02-2026_17-45 - 🎉 UMAMUSUMES PRETTY DERBY x GLOGLOKING 🦄.jpg",
@@ -261,7 +296,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "27-01-2026_21-36 - 28-01-2026_00-05 - 🤑 NOCHE DE SLOTS Y PODCAST 😎.jpg",
@@ -285,7 +321,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "27-01-2026_11-17 - 27-01-2026_16-40 - IRL EN EL ZOO ALIMENTANDO ANIMALES 🤠🦁.jpg",
@@ -309,7 +346,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-02-2026_16-37 - 25-02-2026_21-55 - 🔴 JUEGANDO POKEMON GO CON THERIANS 😎.jpg",
@@ -333,7 +371,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-01-2026_20-00 - 24-01-2026_22-20 - EVENTO 📢 HOY QUEDAS MOJADITO MOJADITO MOJADIIITO 😎.jpg",
@@ -357,7 +396,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "23-02-2026_15-28 - 23-02-2026_22-10 - 🏐VERSUS DE VOLEY ÑOJUDOS VS COJUDOS 😎.jpg",
@@ -381,7 +421,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-01-2026_13-04 - 23-01-2026_15-35 - IRL EN EL GYM PARA BAJAR LA PANZA ESPOSADO CON EMIKUKIS ⛓💀.jpg",
@@ -405,7 +446,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "22-01-2026_16-58 - 22-01-2026_21-05 - IRL DÍA DE DEPORTES CON LA GENTE 🏐 🏀 ESPOSADO CON EMIKUKIS.jpg",
@@ -429,7 +471,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-02-2026_14-31 - 21-02-2026_22-40 - 🎱 AL FIN SU BILLAR CON DAARICK, PIJAMADA 😎.jpg",
@@ -453,7 +496,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-01-2026_18-22 - 21-01-2026_23-22 - 🌈💅GLOGLINA IS BACK- MAQUILLAJE ON.jpg",
@@ -477,7 +521,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-01-2026_17-18 - 21-01-2026_00-05 - IRL COMIENDO MAKIS CON LA GENTITA.jpg",
@@ -501,7 +546,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "18-02-2026_19-18 - 18-02-2026_22-50 - 📣 ACUERDATE DE ESTAAAA 🎉.jpg",
@@ -525,7 +571,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "18-01-2026_19-44 - 18-01-2026_22-20 - 💕CITA CON EMIKUKIS🌹-La dama y el vagabundo (IRL).jpg",
@@ -549,7 +596,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "17-01-2026_19-25 - 18-01-2026_02-05 - 🍻 CHUPI CON STREAMERS Y CALAVERITAS 😎.jpg",
@@ -573,7 +621,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "15-01-2026_22-36 - 16-01-2026_00-05 - 🍙 casino con emi y pucho😎.jpg",
@@ -597,7 +646,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "15-01-2026_19-04 - 15-01-2026_22-35 - 🍙 HACIENDO MAKIS PARA NO PERDER LA PANZA 😎.jpg",
@@ -621,7 +671,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "13-03-2026_14-05 - 13-03-2026_19-55 - TAEKWONDO CON TU GLOGLITO Y LOS ÑOJUDOS😎.png",
+    "streamer": "elglogloking",
+    "streamKey": "elglogloking/13-03-2026_14-05 - 13-03-2026_19-55 - TAEKWONDO CON TU GLOGLITO Y LOS ÑOJUDOS😎.png",
+    "image": "thumbnails/elglogloking/13-03-2026_14-05 - 13-03-2026_19-55 - TAEKWONDO CON TU GLOGLITO Y LOS ÑOJUDOS😎.png?v=1773495589",
+    "avatar": "avatars/elglogloking.png?v=1773035491",
+    "title": "TAEKWONDO CON TU GLOGLITO Y LOS ÑOJUDOS😎",
+    "day": "13",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-13",
+    "startTime": "14:05",
+    "endTime": "19:55",
+    "durationMinutes": 350,
+    "durationText": "5h 50m",
+    "slug": "2026-03-13_14-05_taekwondo-con-tu-gloglito-y-los-nojudos",
+    "collabId": "13-03-2026_taekwondo",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": "20.0 GB"
   },
   {
     "filename": "12-01-2026_19-16 - 12-01-2026_23-30 - 🎤 TE LA SABES 🎶 CANTALOOOO.jpg",
@@ -645,79 +721,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "11-03-2026_23-35 - 12-03-2026_00-40 - 👑 ese x mil es mio 😎.png",
-    "streamer": "elglogloking",
-    "streamKey": "elglogloking/11-03-2026_23-35 - 12-03-2026_00-40 - 👑 ese x mil es mio 😎.png",
-    "image": "thumbnails/elglogloking/11-03-2026_23-35 - 12-03-2026_00-40 - 👑 ese x mil es mio 😎.png?v=1773336960",
-    "avatar": "avatars/elglogloking.png?v=1773035491",
-    "title": "👑 ese x mil es mio 😎",
-    "day": "11",
-    "month": "03",
-    "year": "2026",
-    "date": "2026-03-11",
-    "startTime": "23:35",
-    "endTime": "00:40",
-    "durationMinutes": 65,
-    "durationText": "1h 5m",
-    "slug": "2026-03-11_23-35_ese-x-mil-es-mio",
-    "collabId": "",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "10-03-2026_18-13 - 11-03-2026_00-15 - 👀 EYETRACKER VIENDO EL TIKTOK DE LA GENTE 😎.png",
-    "streamer": "elglogloking",
-    "streamKey": "elglogloking/10-03-2026_18-13 - 11-03-2026_00-15 - 👀 EYETRACKER VIENDO EL TIKTOK DE LA GENTE 😎.png",
-    "image": "thumbnails/elglogloking/10-03-2026_18-13 - 11-03-2026_00-15 - 👀 EYETRACKER VIENDO EL TIKTOK DE LA GENTE 😎.png?v=1773336807",
-    "avatar": "avatars/elglogloking.png?v=1773035491",
-    "title": "👀 EYETRACKER VIENDO EL TIKTOK DE LA GENTE 😎",
-    "day": "10",
-    "month": "03",
-    "year": "2026",
-    "date": "2026-03-10",
-    "startTime": "18:13",
-    "endTime": "00:15",
-    "durationMinutes": 362,
-    "durationText": "6h 2m",
-    "slug": "2026-03-10_18-13_eyetracker-viendo-el-tiktok-de-la-gente",
-    "collabId": "",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "09-03-2026_23-16 - 10-03-2026_00-45 - 🥊casinito vamos por el wing 😎.png",
-    "streamer": "elglogloking",
-    "streamKey": "elglogloking/09-03-2026_23-16 - 10-03-2026_00-45 - 🥊casinito vamos por el wing 😎.png",
-    "image": "thumbnails/elglogloking/09-03-2026_23-16 - 10-03-2026_00-45 - 🥊casinito vamos por el wing 😎.png?v=1773336738",
-    "avatar": "avatars/elglogloking.png?v=1773035491",
-    "title": "🥊casinito vamos por el wing 😎",
-    "day": "09",
-    "month": "03",
-    "year": "2026",
-    "date": "2026-03-09",
-    "startTime": "23:16",
-    "endTime": "00:45",
-    "durationMinutes": 89,
-    "durationText": "1h 29m",
-    "slug": "2026-03-09_23-16_casinito-vamos-por-el-wing",
-    "collabId": "",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "09-01-2026_22-58 - 10-01-2026_00-15 - SLOTS CON TU GLOGLITO.jpg",
@@ -741,7 +746,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "08-01-2026_22-56 - 09-01-2026_01-07 - CHUPISTREAM SLOTERO.jpg",
@@ -765,7 +771,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "08-01-2026_16-03 - 08-01-2026_22-51 - DIA EN MANCORA😎 CON TU GLOGLITO SOLO UN DIA NADA MÁS CHIBOLO.jpg",
@@ -789,7 +796,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-03-2026_19-31 - 07-03-2026_22-35 - 📣 ACUÉRDATE DE ESTA ! EDICIÓN DRAGON BALL 😎.png",
@@ -813,31 +821,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "06-03-2026_18-17 - 06-03-2026_23-40 - 📣 GO VALORECHI Y SU RICA VARIEDAD EN GAYMING 😎.png",
-    "streamer": "elglogloking",
-    "streamKey": "elglogloking/06-03-2026_18-17 - 06-03-2026_23-40 - 📣 GO VALORECHI Y SU RICA VARIEDAD EN GAYMING 😎.png",
-    "image": "thumbnails/elglogloking/06-03-2026_18-17 - 06-03-2026_23-40 - 📣 GO VALORECHI Y SU RICA VARIEDAD EN GAYMING 😎.png?v=1773336636",
-    "avatar": "avatars/elglogloking.png?v=1773035491",
-    "title": "📣 GO VALORECHI Y SU RICA VARIEDAD EN GAYMING 😎",
-    "day": "06",
-    "month": "03",
-    "year": "2026",
-    "date": "2026-03-06",
-    "startTime": "18:17",
-    "endTime": "23:40",
-    "durationMinutes": 323,
-    "durationText": "5h 23m",
-    "slug": "2026-03-06_18-17_go-valorechi-y-su-rica-variedad-en-gayming",
-    "collabId": "",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "05-03-2026_19-19 - 05-03-2026_21-55 - 🍻YA LLEGO TU JUEVES DE PATAS QUE ESPERABAS 7u7 😎.png",
@@ -861,7 +846,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-01-2026_19-14 - 05-01-2026_23-24 - 🥳 NOS VAMOS AL CUMPLE DE MATTRACA 😎.jpg",
@@ -879,37 +865,14 @@
     "durationMinutes": 250,
     "durationText": "4h 10m",
     "slug": "2026-01-05_19-14_nos-vamos-al-cumple-de-mattraca",
-    "collabId": "",
+    "collabId": "05-01-2026_cumple",
     "highlightCount": 0,
     "highlights": [],
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "04-03-2026_22-59 - 05-03-2026_00-05 - 📣 DONANDOLE TODO MI DINERO AL CASINO 😎.png",
-    "streamer": "elglogloking",
-    "streamKey": "elglogloking/04-03-2026_22-59 - 05-03-2026_00-05 - 📣 DONANDOLE TODO MI DINERO AL CASINO 😎.png",
-    "image": "thumbnails/elglogloking/04-03-2026_22-59 - 05-03-2026_00-05 - 📣 DONANDOLE TODO MI DINERO AL CASINO 😎.png?v=1773336593",
-    "avatar": "avatars/elglogloking.png?v=1773035491",
-    "title": "📣 DONANDOLE TODO MI DINERO AL CASINO 😎",
-    "day": "04",
-    "month": "03",
-    "year": "2026",
-    "date": "2026-03-04",
-    "startTime": "22:59",
-    "endTime": "00:05",
-    "durationMinutes": 66,
-    "durationText": "1h 6m",
-    "slug": "2026-03-04_22-59_donandole-todo-mi-dinero-al-casino",
-    "collabId": "",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-01-2026_15-55 - 04-01-2026_19-01 - UN DIA JUGANDO TENNIS 😎🎾.jpg",
@@ -933,7 +896,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "03-01-2026_20-14 - 04-01-2026_00-25 - 🛟 BAÑO DE CULTURA 🌊 AGÜITA PA TI 🚿.jpg",
@@ -957,7 +921,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "02-02-2026_18-22 - 02-02-2026_22-48 - IRL JUGANDO VOLEY CON TU GLOGLITO 🏐  LUNES PRINCIPIO DE SEMANA 😎.jpg",
@@ -981,31 +946,133 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
-    "filename": "19-01-2026_10-08 - 19-01-2026_17-12 - EMETSUKI POTO PRONTO CANON FT PROFE NALGAS Y PAPITAS 🔥.jpg",
+    "filename": "26-02-2026_14-22 - 26-02-2026_21-55 - ESTRENO DE LA CANCIÓN DE EMI.png",
     "streamer": "emetsuki",
-    "streamKey": "emetsuki/19-01-2026_10-08 - 19-01-2026_17-12 - EMETSUKI POTO PRONTO CANON FT PROFE NALGAS Y PAPITAS 🔥.jpg",
-    "image": "thumbnails/emetsuki/19-01-2026_10-08 - 19-01-2026_17-12 - EMETSUKI POTO PRONTO CANON FT PROFE NALGAS Y PAPITAS 🔥.jpg?v=1772980151",
+    "streamKey": "emetsuki/26-02-2026_14-22 - 26-02-2026_21-55 - ESTRENO DE LA CANCIÓN DE EMI.png",
+    "image": "thumbnails/emetsuki/26-02-2026_14-22 - 26-02-2026_21-55 - ESTRENO DE LA CANCIÓN DE EMI.png?v=1773395382",
     "avatar": "avatars/emetsuki.png?v=1773035560",
-    "title": "EMETSUKI POTO PRONTO CANON FT PROFE NALGAS Y PAPITAS 🔥",
-    "day": "19",
-    "month": "01",
+    "title": "ESTRENO DE LA CANCIÓN DE EMI",
+    "day": "26",
+    "month": "02",
     "year": "2026",
-    "date": "2026-01-19",
-    "startTime": "10:08",
-    "endTime": "17:12",
-    "durationMinutes": 424,
-    "durationText": "7h 4m",
-    "slug": "2026-01-19_10-08_emetsuki-poto-pronto-canon-ft-profe-nalgas-y-papitas",
+    "date": "2026-02-26",
+    "startTime": "14:22",
+    "endTime": "21:55",
+    "durationMinutes": 453,
+    "durationText": "7h 33m",
+    "slug": "2026-02-26_14-22_estreno-de-la-cancion-de-emi",
     "collabId": "",
     "highlightCount": 0,
     "highlights": [],
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "13-03-2026_13-10 - 13-03-2026_18-59 - IRL co los chicos haciendo karate.png",
+    "streamer": "emetsuki",
+    "streamKey": "emetsuki/13-03-2026_13-10 - 13-03-2026_18-59 - IRL co los chicos haciendo karate.png",
+    "image": "thumbnails/emetsuki/13-03-2026_13-10 - 13-03-2026_18-59 - IRL co los chicos haciendo karate.png?v=1773486998",
+    "avatar": "avatars/emetsuki.png?v=1773035560",
+    "title": "IRL co los chicos haciendo karate",
+    "day": "13",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-13",
+    "startTime": "13:10",
+    "endTime": "18:59",
+    "durationMinutes": 349,
+    "durationText": "5h 49m",
+    "slug": "2026-03-13_13-10_irl-co-los-chicos-haciendo-karate",
+    "collabId": "13-03-2026_taekwondo",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": "15.5 GB"
+  },
+  {
+    "filename": "06-03-2026_20-01 - 06-03-2026_21-05 - IRL VENDIENDO FRUNA PQ TOI MISIA.png",
+    "streamer": "emetsuki",
+    "streamKey": "emetsuki/06-03-2026_20-01 - 06-03-2026_21-05 - IRL VENDIENDO FRUNA PQ TOI MISIA.png",
+    "image": "thumbnails/emetsuki/06-03-2026_20-01 - 06-03-2026_21-05 - IRL VENDIENDO FRUNA PQ TOI MISIA.png?v=1773395552",
+    "avatar": "avatars/emetsuki.png?v=1773035560",
+    "title": "IRL VENDIENDO FRUNA PQ TOI MISIA",
+    "day": "06",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-06",
+    "startTime": "20:01",
+    "endTime": "21:05",
+    "durationMinutes": 64,
+    "durationText": "1h 4m",
+    "slug": "2026-03-06_20-01_irl-vendiendo-fruna-pq-toi-misia",
+    "collabId": "06-03-2026_playa",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "06-03-2026_16-31 - 06-03-2026_20-05 - IRL VENDIENDO FRUNA PQ TOI MISIA.png",
+    "streamer": "emetsuki",
+    "streamKey": "emetsuki/06-03-2026_16-31 - 06-03-2026_20-05 - IRL VENDIENDO FRUNA PQ TOI MISIA.png",
+    "image": "thumbnails/emetsuki/06-03-2026_16-31 - 06-03-2026_20-05 - IRL VENDIENDO FRUNA PQ TOI MISIA.png?v=1773395505",
+    "avatar": "avatars/emetsuki.png?v=1773035560",
+    "title": "IRL VENDIENDO FRUNA PQ TOI MISIA",
+    "day": "06",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-06",
+    "startTime": "16:31",
+    "endTime": "20:05",
+    "durationMinutes": 214,
+    "durationText": "3h 34m",
+    "slug": "2026-03-06_16-31_irl-vendiendo-fruna-pq-toi-misia",
+    "collabId": "06-03-2026_playa",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "03-02-2026_20-58 - 03-02-2026_23-37 - VS DE VOLEY DIVINAS DEL NORTE VS STREAMERS.png",
+    "streamer": "emetsuki",
+    "streamKey": "emetsuki/03-02-2026_20-58 - 03-02-2026_23-37 - VS DE VOLEY DIVINAS DEL NORTE VS STREAMERS.png",
+    "image": "thumbnails/emetsuki/03-02-2026_20-58 - 03-02-2026_23-37 - VS DE VOLEY DIVINAS DEL NORTE VS STREAMERS.png?v=1773395201",
+    "avatar": "avatars/emetsuki.png?v=1773035560",
+    "title": "VS DE VOLEY DIVINAS DEL NORTE VS STREAMERS",
+    "day": "03",
+    "month": "02",
+    "year": "2026",
+    "date": "2026-02-03",
+    "startTime": "20:58",
+    "endTime": "23:37",
+    "durationMinutes": 159,
+    "durationText": "2h 39m",
+    "slug": "2026-02-03_20-58_vs-de-voley-divinas-del-norte-vs-streamers",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "31-10-2025_17-32 - 31-10-2025_21-32 - FELIZ HALLOWEEN 🎃🕷️.jpg",
@@ -1029,7 +1096,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "31-07-2025_17-11 - 01-08-2025_00-21 - Haciéndome las pestañas 👀 Dia de Papa e Hijas 👨‍👧‍👧 ft. Zein y Zully.png",
@@ -1053,7 +1121,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "31-07-2025_13-44 - 31-07-2025_17-09 - Haciéndome las pestañas 👀 Dia de Papa e Hijas 👨‍👧‍👧 ft  Zein y Zully.png",
@@ -1077,7 +1146,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "31-01-2026_19-26 - 01-02-2026_01-45 - ESTUVE EMBARAZADA (ya parí) 🤰.jpg",
@@ -1095,13 +1165,14 @@
     "durationMinutes": 379,
     "durationText": "6h 19m",
     "slug": "2026-01-31_19-26_estuve-embarazada-ya-pari",
-    "collabId": "",
+    "collabId": "31-01-2026_get_ready",
     "highlightCount": 0,
     "highlights": [],
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-12-2025_18-50 - 30-12-2025_23-10 - IRL en los Juegos Mecanicos de SUPERHEROES 🤖 SoyBatikaka.jpg",
@@ -1125,7 +1196,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-11-2025_21-55 - 30-11-2025_23-24 - Arreglandome FAST.jpg",
@@ -1149,7 +1221,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
+  },
+  {
+    "filename": "30-11-2024_19-00 - 30-11-2024_20-36 - Escondite en LATAM 🥸.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/30-11-2024_19-00 - 30-11-2024_20-36 - Escondite en LATAM 🥸.png",
+    "image": "thumbnails/emikukis/30-11-2024_19-00 - 30-11-2024_20-36 - Escondite en LATAM 🥸.png?v=1773489072",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Escondite en LATAM 🥸",
+    "day": "30",
+    "month": "11",
+    "year": "2024",
+    "date": "2024-11-30",
+    "startTime": "19:00",
+    "endTime": "20:36",
+    "durationMinutes": 96,
+    "durationText": "1h 36m",
+    "slug": "2024-11-30_19-00_escondite-en-latam",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-10-2025_14-25 - 30-10-2025_16-45 - Haciendo CALAVAZAS 🎃 🍌.jpg",
@@ -1173,7 +1271,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-09-2025_14-29 - 30-09-2025_16-12 - Mi propio desafío de eliminación MLBB Dia 2 🏆💅.jpg",
@@ -1197,7 +1296,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-08-2025_20-24 - 31-08-2025_01-55 - Gane 6k de dolares, se fue la mufa⚽️.png",
@@ -1221,7 +1321,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-08-2025_16-53 - 30-08-2025_20-25 - Pichanga ⚽️.png",
@@ -1245,7 +1346,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-07-2025_16-25 - 30-07-2025_21-52 - Día de pichanga ⚽.png",
@@ -1269,7 +1371,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-06-2025_17-25 - 30-06-2025_22-45 - COLOMBIA 🇨🇴.png",
@@ -1293,7 +1396,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "30-06-2025_14-11 - 30-06-2025_17-20 - COLOMBIA 🇨🇴.png",
@@ -1317,7 +1421,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "30-01-2026_19-42 - 31-01-2026_00-45 - FIESTA OTAKU 🤪🤪🎉 con Cosplay de MOMO.jpg",
@@ -1341,7 +1446,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-01-2026_12-26 - 30-01-2026_13-50 - Go gym 💪 (5-15).jpg",
@@ -1365,7 +1471,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "29-12-2025_23-10 - 30-12-2025_00-45 - Go LUDOPATIA HASTA QUEDARME SIN UN SOL 😃 CODIGOS Y MONEY GRATIS.jpg",
@@ -1389,7 +1496,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "29-12-2025_17-55 - 29-12-2025_23-00 - Me hago una LIMPIA pa empezar bien 2026 🤩✨️ Repartiendo Pavos 🦃.jpg",
@@ -1413,7 +1521,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "29-12-2024_18-17 - 29-12-2024_22-35 - WWHT y Cuphead con un Webon ☕ Cerrando ciclos (Tarmaland) 🫷😮 🫸.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/29-12-2024_18-17 - 29-12-2024_22-35 - WWHT y Cuphead con un Webon ☕ Cerrando ciclos (Tarmaland) 🫷😮 🫸.png",
+    "image": "thumbnails/emikukis/29-12-2024_18-17 - 29-12-2024_22-35 - WWHT y Cuphead con un Webon ☕ Cerrando ciclos (Tarmaland) 🫷😮 🫸.png?v=1773492075",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "WWHT y Cuphead con un Webon ☕ Cerrando ciclos (Tarmaland) 🫷😮 🫸",
+    "day": "29",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-29",
+    "startTime": "18:17",
+    "endTime": "22:35",
+    "durationMinutes": 258,
+    "durationText": "4h 18m",
+    "slug": "2024-12-29_18-17_wwht-y-cuphead-con-un-webon-cerrando-ciclos-tarmaland",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "29-11-2025_20-36 - 30-11-2025_00-03 - Ibamos a hacer otra cosa pero toco dentista.jpg",
@@ -1437,7 +1571,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "29-10-2025_18-41 - 30-10-2025_01-52 - PRISION SCAPE ⛏️☠️ Reacciones 😎 Pichanga pero con tematica de DRAGON BALL 🐉.jpg",
@@ -1461,7 +1596,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "29-09-2025_19-44 - 29-09-2025_22-05 - Mi propio desafío de eliminación MLBB 🏆💅.jpg",
@@ -1485,7 +1621,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "29-08-2025_17-48 - 29-08-2025_22-10 - Cocinando y consiguiendo chamba 👩‍🍳👨‍🍳.png",
@@ -1509,7 +1646,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "29-07-2025_10-55 - 30-07-2025_00-01 - Me hago las uñas 💅 Go Gym 💪 Comprando ropa y Vistiendome de Hombre 👨.png",
@@ -1533,7 +1671,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "29-06-2025_14-01 - 30-06-2025_00-36 - COLOMBIA 🇨🇴.png",
@@ -1557,7 +1696,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "28-11-2025_23-48 - 29-11-2025_01-16 - Go casinechi.jpg",
@@ -1581,7 +1721,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-11-2025_22-23 - 28-11-2025_23-35 - OLAMUSHASHOS.jpg",
@@ -1605,7 +1746,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-11-2025_18-01 - 28-11-2025_22-21 - JUEGOS MECÁNICOS 🕷️ 🕷️.jpg",
@@ -1629,7 +1771,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-10-2025_15-10 - 28-10-2025_23-58 - IRL en EL CENTRO DE LIMA buscando DISFRACES 😝😼.jpg",
@@ -1653,7 +1796,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-09-2025_19-53 - 28-09-2025_22-19 - POV GANADOR 👑 TORNEO FINAL 🏆 Siendo invcta 😈🙌.jpg",
@@ -1677,7 +1821,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-07-2025_15-28 - 29-07-2025_00-37 - Celebrando Fiestas Patrias PERUANAS  ♥️🤍 ♥️.png",
@@ -1701,7 +1846,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-06-2025_13-02 - 28-06-2025_22-57 - COLOMBIA 🇨🇴.png",
@@ -1725,7 +1871,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "28-02-2026_19-14 - 28-02-2026_23-50 - COCINANDO AREPAS ft. AIRITA y 🐰.jpg",
@@ -1749,7 +1896,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-01-2026_18-48 - 29-01-2026_01-40 - Fornais evento 🔫 Terminamos juego de BB Loco👶.png",
@@ -1773,7 +1921,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-01-2026_11-47 - 28-01-2026_13-35 - Sufriendo otra vez GYM (4-15).jpg",
@@ -1797,7 +1946,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "27-12-2025_19-35 - 28-12-2025_00-15 - Llevamo a cleo al vete FULL jueguitos hoy.jpg",
@@ -1821,7 +1971,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "27-12-2024_17-37 - 28-12-2024_02-31 - Tarmaland 🕺 Carreritas de GTA 🤑 Chupistream 🍺.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/27-12-2024_17-37 - 28-12-2024_02-31 - Tarmaland 🕺 Carreritas de GTA 🤑 Chupistream 🍺.png",
+    "image": "thumbnails/emikukis/27-12-2024_17-37 - 28-12-2024_02-31 - Tarmaland 🕺 Carreritas de GTA 🤑 Chupistream 🍺.png?v=1773491979",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Tarmaland 🕺 Carreritas de GTA 🤑 Chupistream 🍺",
+    "day": "27",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-27",
+    "startTime": "17:37",
+    "endTime": "02:31",
+    "durationMinutes": 534,
+    "durationText": "8h 54m",
+    "slug": "2024-12-27_17-37_tarmaland-carreritas-de-gta-chupistream",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "27-11-2025_21-58 - 27-11-2025_23-55 - Go Scape Room.jpg",
@@ -1845,7 +2021,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "27-10-2025_17-32 - 28-10-2025_00-09 - Memes 😂 Reacciones 😎 Torre TROLL ☠️ Tarmaland ⛏️.jpg",
@@ -1869,7 +2046,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "27-09-2025_19-57 - 27-09-2025_22-41 - Torneo REVANCHA MLBB  con OBSIDIA 😈☠️ (ojala me carreen).jpg",
@@ -1893,7 +2071,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "27-07-2025_19-11 - 28-07-2025_02-53 - Banderazo en el Centro de Lima 🇵🇪.png",
@@ -1917,7 +2096,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "27-06-2025_20-26 - 27-06-2025_22-05 - COLOMBIA 🇨🇴.png",
@@ -1941,7 +2121,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "27-02-2026_15-23 - 27-02-2026_17-45 - Soy GOLD SHIP 🏇 en el HIPODROMO.jpg",
@@ -1965,7 +2146,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "27-01-2026_11-26 - 27-01-2026_16-45 - DIA DE ZOO 😍♥️.jpg",
@@ -1989,7 +2171,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-12-2025_18-43 - 27-12-2025_00-25 - Terminamos Dispatch 🙌 Reacciones 😎 Fornai 🙌.jpg",
@@ -2013,7 +2196,58 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "26-12-2024_19-15 - 27-12-2024_02-25 - Webones Awards, Fortnite ft. Sin papito y Tarma si da tiempo 😬.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/26-12-2024_19-15 - 27-12-2024_02-25 - Webones Awards, Fortnite ft. Sin papito y Tarma si da tiempo 😬.png",
+    "image": "thumbnails/emikukis/26-12-2024_19-15 - 27-12-2024_02-25 - Webones Awards, Fortnite ft. Sin papito y Tarma si da tiempo 😬.png?v=1773487922",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Webones Awards, Fortnite ft. Sin papito y Tarma si da tiempo 😬",
+    "day": "26",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-26",
+    "startTime": "19:15",
+    "endTime": "02:25",
+    "durationMinutes": 430,
+    "durationText": "7h 10m",
+    "slug": "2024-12-26_19-15_webones-awards-fortnite-ft-sin-papito-y-tarma-si-da-tiempo",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "26-12-2024_16-45 - 26-12-2024_18-51 - Vestido Clasista 🤑 ML con Apuestas 🗣️.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/26-12-2024_16-45 - 26-12-2024_18-51 - Vestido Clasista 🤑 ML con Apuestas 🗣️.png",
+    "image": "thumbnails/emikukis/26-12-2024_16-45 - 26-12-2024_18-51 - Vestido Clasista 🤑 ML con Apuestas 🗣️.png?v=1773491895",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Vestido Clasista 🤑 ML con Apuestas 🗣️",
+    "day": "26",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-26",
+    "startTime": "16:45",
+    "endTime": "18:51",
+    "durationMinutes": 126,
+    "durationText": "2h 6m",
+    "slug": "2024-12-26_16-45_vestido-clasista-ml-con-apuestas",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-11-2025_18-59 - 27-11-2025_00-43 - POR FIN SETUP.jpg",
@@ -2037,7 +2271,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-09-2025_20-12 - 26-09-2025_22-54 - Último día ENTRENANDO para el torneo MLBB 😈  NUEVO set up 🙌.jpg",
@@ -2061,7 +2296,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-08-2025_19-02 - 26-08-2025_23-25 - Cocinando con Pipe Calderon 👩‍🍳👨‍🍳.png",
@@ -2085,7 +2321,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-07-2025_22-29 - 27-07-2025_00-28 - Reaccionando a la Velada 🥊.png",
@@ -2109,7 +2346,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-07-2025_14-09 - 26-07-2025_22-25 - Reaccionando a la Velada 🥊.png",
@@ -2133,7 +2371,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-02-2026_20-32 - 26-02-2026_23-10 - Estreno UHLALALA 🎶 MI CANCIÓN 🫣 parrillita.png",
@@ -2168,7 +2407,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "26-01-2026_19-13 - 26-01-2026_23-55 - Día de jueguitos y videitos 😃.jpg",
@@ -2192,7 +2432,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-01-2026_12-31 - 26-01-2026_14-50 - GYM 3-15 HOY ENTRENAMOS CON NATURALITO 🥊💪.jpg",
@@ -2216,7 +2457,58 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "25-12-2024_20-39 - 25-12-2024_23-27 - Mi PRIMER COSPLAY 👽 Momo Ayase 🗣️ Viendo sus Outfits 🤵 Tarmaland 🤎.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/25-12-2024_20-39 - 25-12-2024_23-27 - Mi PRIMER COSPLAY 👽 Momo Ayase 🗣️ Viendo sus Outfits 🤵 Tarmaland 🤎.png",
+    "image": "thumbnails/emikukis/25-12-2024_20-39 - 25-12-2024_23-27 - Mi PRIMER COSPLAY 👽 Momo Ayase 🗣️ Viendo sus Outfits 🤵 Tarmaland 🤎.png?v=1773491768",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Mi PRIMER COSPLAY 👽 Momo Ayase 🗣️ Viendo sus Outfits 🤵 Tarmaland 🤎",
+    "day": "25",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-25",
+    "startTime": "20:39",
+    "endTime": "23:27",
+    "durationMinutes": 168,
+    "durationText": "2h 48m",
+    "slug": "2024-12-25_20-39_mi-primer-cosplay-momo-ayase-viendo-sus-outfits-tarmaland",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "25-12-2024_18-22 - 25-12-2024_19-46 - Mi PRIMER COSPLAY 👽 Momo Ayase 🗣️ Viendo sus Outfits 🤵 Tarmaland 🤎.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/25-12-2024_18-22 - 25-12-2024_19-46 - Mi PRIMER COSPLAY 👽 Momo Ayase 🗣️ Viendo sus Outfits 🤵 Tarmaland 🤎.png",
+    "image": "thumbnails/emikukis/25-12-2024_18-22 - 25-12-2024_19-46 - Mi PRIMER COSPLAY 👽 Momo Ayase 🗣️ Viendo sus Outfits 🤵 Tarmaland 🤎.png?v=1773491642",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Mi PRIMER COSPLAY 👽 Momo Ayase 🗣️ Viendo sus Outfits 🤵 Tarmaland 🤎",
+    "day": "25",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-25",
+    "startTime": "18:22",
+    "endTime": "19:46",
+    "durationMinutes": 84,
+    "durationText": "1h 24m",
+    "slug": "2024-12-25_18-22_mi-primer-cosplay-momo-ayase-viendo-sus-outfits-tarmaland",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-11-2025_17-22 - 26-11-2025_00-26 - 😼 Hola mushashos, go irl con mis viejas.jpg",
@@ -2240,7 +2532,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-10-2025_17-07 - 25-10-2025_20-24 - chilleando chilling de cojones tio.jpg",
@@ -2264,7 +2557,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-09-2025_19-52 - 25-09-2025_23-40 - IRL DESARMANDO MI SETUP.jpg",
@@ -2288,7 +2582,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-08-2025_15-56 - 25-08-2025_20-55 - Ojitos mentirosos 🎶🎙 Mamakukis y yo siendo payasas 🤡🤡.png",
@@ -2312,7 +2607,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-07-2025_16-22 - 26-07-2025_00-25 - Día de limpieza pq nadie más quiere hacerlo 💀.png",
@@ -2336,7 +2632,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-02-2026_23-20 - 26-02-2026_00-40 - Su casinechi.jpg",
@@ -2360,7 +2657,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-02-2026_18-45 - 25-02-2026_23-20 - SUB = 🎈🎈🎈🎈🎈🎈 - SI me RIO regalo NITRO - MAÑANA SE ESTRENA MI CANCIOOOON 🎶.jpg",
@@ -2384,7 +2682,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-12-2025_20-47 - 25-12-2025_00-50 - FELIZ NAVIDAD🎄🎅.jpg",
@@ -2408,7 +2707,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-10-2025_18-37 - 25-10-2025_02-01 - SEGUIMOS CON LA CONSTRUCCION DE LA CASA EN TARMALAND 🏠.jpg",
@@ -2432,7 +2732,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-09-2025_18-44 - 24-09-2025_22-50 - Hoy dia Chill D Reacciones y Botones 🤖.jpg",
@@ -2456,7 +2757,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-07-2025_16-23 - 24-07-2025_23-27 - Yendo a ver carros 🚗.png",
@@ -2480,7 +2782,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-02-2026_18-50 - 24-02-2026_22-30 - Yendo a ARENALES por PRIMERA VEZ 😽 (en stream) Ft Ñary y Ñaft.jpg",
@@ -2504,7 +2807,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-01-2026_13-09 - 24-01-2026_16-40 - Go GYM (2-15).jpg",
@@ -2528,7 +2832,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-12-2025_19-00 - 24-12-2025_00-40 - Haciendo Casas de Jengibre Bunuelos y Natilla.jpg",
@@ -2552,7 +2857,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
+  },
+  {
+    "filename": "23-12-2024_18-24 - 23-12-2024_23-36 - TierList Navideño pero CON mis AMIGOS 🎄 Tarmaland ( 🤎.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/23-12-2024_18-24 - 23-12-2024_23-36 - TierList Navideño pero CON mis AMIGOS 🎄 Tarmaland ( 🤎.png",
+    "image": "thumbnails/emikukis/23-12-2024_18-24 - 23-12-2024_23-36 - TierList Navideño pero CON mis AMIGOS 🎄 Tarmaland ( 🤎.png?v=1773491556",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "TierList Navideño pero CON mis AMIGOS 🎄 Tarmaland ( 🤎",
+    "day": "23",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-23",
+    "startTime": "18:24",
+    "endTime": "23:36",
+    "durationMinutes": 312,
+    "durationText": "5h 12m",
+    "slug": "2024-12-23_18-24_tierlist-navideno-pero-con-mis-amigos-tarmaland",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-11-2025_21-22 - 24-11-2025_01-22 - Pinchanga de Girlis (voy a morir).jpg",
@@ -2576,7 +2907,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "23-10-2025_18-42 - 23-10-2025_23-59 - NUEVO PVZ 🌼😱.jpg",
@@ -2600,7 +2932,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-09-2025_20-05 - 23-09-2025_22-18 - Practicando ser la de más kills en Mobile Legends 😈😈😈 - Entrenado para el segundo torneo 💅🏻💅🏻💅🏻.jpg",
@@ -2624,7 +2957,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-09-2025_13-05 - 23-09-2025_18-57 - Soy karkarkarkarsahur xdd🪑.jpg",
@@ -2648,7 +2982,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-08-2025_12-14 - 23-08-2025_17-50 - Go Gym 💀!! Parque de diversiones 🙌🚨🎉.png",
@@ -2672,7 +3007,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-07-2025_18-22 - 24-07-2025_00-21 - Somos 80k 🎉 Yendo al pueblo de Zully 🐴 Cosplay Peak.png",
@@ -2696,7 +3032,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-06-2025_18-01 - 23-06-2025_21-55 - FNAF Secret of the MIMIC 💀Reacciones 😎 Bingo de Streamers 🎰 Su Balatrito.png",
@@ -2720,7 +3057,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-01-2026_20-16 - 23-01-2026_22-15 - Ratito de Reacciones 😎.jpg",
@@ -2744,7 +3082,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "22-12-2024_18-41 - 23-12-2024_04-36 - Tarmaland 😃 Stream chill 😃.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/22-12-2024_18-41 - 23-12-2024_04-36 - Tarmaland 😃 Stream chill 😃.png",
+    "image": "thumbnails/emikukis/22-12-2024_18-41 - 23-12-2024_04-36 - Tarmaland 😃 Stream chill 😃.png?v=1773487922",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Tarmaland 😃 Stream chill 😃",
+    "day": "22",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-22",
+    "startTime": "18:41",
+    "endTime": "04:36",
+    "durationMinutes": 595,
+    "durationText": "9h 55m",
+    "slug": "2024-12-22_18-41_tarmaland-stream-chill",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "22-11-2025_18-50 - 22-11-2025_22-54 - Go Comicon.jpg",
@@ -2768,7 +3132,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "22-10-2025_18-46 - 23-10-2025_00-39 - Construyendo en Tarmaland  Estoy AFONICA ☠️ 🟢.jpg",
@@ -2792,7 +3157,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "22-10-2025_13-36 - 22-10-2025_15-05 - Go GYM gasta MORIR 💀.jpg",
@@ -2816,7 +3182,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "22-08-2025_20-06 - 23-08-2025_00-50 - Buscandole Minino a Blum en una fiesta GAY 🏳️‍🌈🤪.png",
@@ -2840,7 +3207,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "22-07-2025_18-05 - 23-07-2025_00-05 - Ya casi 80k 😭 Yendo a comprar para el cosplay de Peak.png",
@@ -2864,7 +3232,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "21-12-2024_17-01 - 21-12-2024_19-31 - Emi Rosita REDEBUT 🩷.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/21-12-2024_17-01 - 21-12-2024_19-31 - Emi Rosita REDEBUT 🩷.png",
+    "image": "thumbnails/emikukis/21-12-2024_17-01 - 21-12-2024_19-31 - Emi Rosita REDEBUT 🩷.png?v=1773491441",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Emi Rosita REDEBUT 🩷",
+    "day": "21",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-21",
+    "startTime": "17:01",
+    "endTime": "19:31",
+    "durationMinutes": 150,
+    "durationText": "2h 30m",
+    "slug": "2024-12-21_17-01_emi-rosita-redebut",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-11-2025_19-24 - 21-11-2025_00-25 - Hola muchachossss.jpg",
@@ -2888,7 +3282,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-10-2025_18-10 - 22-10-2025_01-34 - ACABAMOS 99 NOCHES 🌃 Reacciones 😎 Tarmaland 🥳.jpg",
@@ -2912,7 +3307,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-09-2025_19-58 - 21-09-2025_22-11 - Día 2 torneo Mobile Legends representando a Obsidia y jugando.jpg",
@@ -2936,7 +3332,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-08-2025_13-17 - 21-08-2025_23-52 - GO GYM con una PROFESIONAL🥊 Outfit y regalo para mi Hemana ZULLY 🎁.png",
@@ -2960,7 +3357,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-07-2025_20-49 - 22-07-2025_01-54 - POR FIN SETUP 🙌 Armando Horario 📅 Peak Día tranqui.png",
@@ -2984,7 +3382,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-06-2025_17-19 - 21-06-2025_20-25 - Reacciones 😎 Nuevas Cartas COFRES (showcase) 🎴 Bingo de Streamers 🎰.png",
@@ -3008,7 +3407,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-02-2026_18-38 - 21-02-2026_23-35 - Hoy si... POPPY PLAYTIME xd.jpg",
@@ -3032,7 +3432,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-01-2026_19-50 - 21-01-2026_23-15 - GO SETUP y MAQUILLANDO AL PANZON 💄💋.jpg",
@@ -3056,7 +3457,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-01-2026_12-29 - 21-01-2026_14-15 - DIA 15-15 DEL RETO DEL MES 🕷️ HACIENDO FINTA COMO BUENA LOAYZA UMAÑA.jpg",
@@ -3080,7 +3482,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-12-2025_11-08 - 20-12-2025_15-00 - Mi primera chocolatada.jpg",
@@ -3104,7 +3507,58 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
+  },
+  {
+    "filename": "20-12-2024_19-12 - 21-12-2024_02-17 - Tarmaland.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/20-12-2024_19-12 - 21-12-2024_02-17 - Tarmaland.png",
+    "image": "thumbnails/emikukis/20-12-2024_19-12 - 21-12-2024_02-17 - Tarmaland.png?v=1773487922",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Tarmaland",
+    "day": "20",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-20",
+    "startTime": "19:12",
+    "endTime": "02:17",
+    "durationMinutes": 425,
+    "durationText": "7h 5m",
+    "slug": "2024-12-20_19-12_tarmaland",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "20-12-2024_15-59 - 20-12-2024_19-05 - Viendo Memes en Discord.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/20-12-2024_15-59 - 20-12-2024_19-05 - Viendo Memes en Discord.png",
+    "image": "thumbnails/emikukis/20-12-2024_15-59 - 20-12-2024_19-05 - Viendo Memes en Discord.png?v=1773491362",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Viendo Memes en Discord",
+    "day": "20",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-20",
+    "startTime": "15:59",
+    "endTime": "19:05",
+    "durationMinutes": 186,
+    "durationText": "3h 6m",
+    "slug": "2024-12-20_15-59_viendo-memes-en-discord",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-11-2025_17-40 - 20-11-2025_21-14 - Hellmart ☠️ Reacciones 😎.jpg",
@@ -3128,7 +3582,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-10-2025_20-43 - 20-10-2025_23-13 - CLEO IS BACK 🐈💖 Su charlita y videitos 😎.jpg",
@@ -3152,7 +3607,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-09-2025_19-37 - 20-09-2025_22-44 - chilling.jpg",
@@ -3176,7 +3632,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-08-2025_16-24 - 21-08-2025_00-10 - GO GYM 🥊.png",
@@ -3200,7 +3657,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-07-2025_03-12 - 20-07-2025_03-18 - Es mi CUMPLEAÑOS 🎂🎉.png",
@@ -3224,7 +3682,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "20-06-2025_17-11 - 20-06-2025_20-15 - Viendo Tiktoks de TERROR 🤑 Balatro 👺 Videos que me Pasan 😎.png",
@@ -3248,7 +3707,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-02-2026_18-58 - 21-02-2026_00-30 - Pijamada de Girls pero voy a ser una ARAÑA.jpg",
@@ -3272,7 +3732,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-02-2026_00-06 - 20-02-2026_01-50 - GO CASINECHIIII.jpg",
@@ -3296,7 +3757,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-01-2026_17-29 - 20-01-2026_23-55 - Toca Volley Day 🏐.jpg",
@@ -3320,7 +3782,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-01-2026_11-38 - 20-01-2026_14-05 - Gym para seguir la racha 💪 14-15 gaaa.jpg",
@@ -3344,7 +3807,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-12-2025_12-49 - 19-12-2025_16-00 - Comprando cosas navidenas en el Centro.jpg",
@@ -3368,7 +3832,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-11-2025_19-25 - 20-11-2025_00-40 - Scape Room - Luego si hay tiempo SetUp.jpg",
@@ -3392,7 +3857,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-11-2025_13-38 - 19-11-2025_15-22 - Go gym sola sufriendo sola 😔.jpg",
@@ -3416,7 +3882,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-09-2025_22-03 - 20-09-2025_00-31 - Buscando Comida y hablanding 🙌.jpg",
@@ -3440,7 +3907,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-09-2025_18-15 - 19-09-2025_21-54 - buscando team en mobile legends, DesafíoDeEliminación.jpg",
@@ -3464,7 +3932,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-08-2025_16-37 - 20-08-2025_00-40 - Parque de la Amistad 🤺 Especial 100k 💀🎉.png",
@@ -3488,7 +3957,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "19-07-2025_12-48 - 20-07-2025_03-11 - Es mi CUMPLEAÑOS 🎂🎉.png",
@@ -3512,7 +3982,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "19-06-2025_18-01 - 19-06-2025_20-25 - Bailando con Redbull xddd 💃.png",
@@ -3536,7 +4007,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "19-02-2026_22-18 - 20-02-2026_00-05 - prendiendo para la racha.jpg",
@@ -3560,7 +4032,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-01-2026_12-29 - 19-01-2026_15-05 - Gym con los de la casa 🤪💪.jpg",
@@ -3584,7 +4057,58 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "18-12-2024_15-00 - 19-12-2024_01-55 - Roleando en Tarmaland.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/18-12-2024_15-00 - 19-12-2024_01-55 - Roleando en Tarmaland.png",
+    "image": "thumbnails/emikukis/18-12-2024_15-00 - 19-12-2024_01-55 - Roleando en Tarmaland.png?v=1773487922",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Roleando en Tarmaland",
+    "day": "18",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-18",
+    "startTime": "15:00",
+    "endTime": "01:55",
+    "durationMinutes": 655,
+    "durationText": "10h 55m",
+    "slug": "2024-12-18_15-00_roleando-en-tarmaland",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "18-12-2024_14-09 - 18-12-2024_14-57 - Ultimo Día en Salvando la Navidad... Primero su charlita.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/18-12-2024_14-09 - 18-12-2024_14-57 - Ultimo Día en Salvando la Navidad... Primero su charlita.png",
+    "image": "thumbnails/emikukis/18-12-2024_14-09 - 18-12-2024_14-57 - Ultimo Día en Salvando la Navidad... Primero su charlita.png?v=1773491224",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Ultimo Día en Salvando la Navidad... Primero su charlita",
+    "day": "18",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-18",
+    "startTime": "14:09",
+    "endTime": "14:57",
+    "durationMinutes": 48,
+    "durationText": "48m",
+    "slug": "2024-12-18_14-09_ultimo-dia-en-salvando-la-navidad-primero-su-charlita",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "18-11-2025_20-51 - 19-11-2025_02-23 - 🕷️ ARMANDO UN LEGO CON UN CIEGO Y PANZON 🦁.jpg",
@@ -3608,7 +4132,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "18-09-2025_19-43 - 18-09-2025_23-34 - De Compras   Comiendo 😋  Después Estreshitassss 🌠.jpg",
@@ -3632,7 +4157,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "18-08-2025_19-04 - 19-08-2025_00-35 - Cocinando Atomatada 💀🇵🇪 Sorpresa 👀.png",
@@ -3656,7 +4182,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "18-07-2025_20-12 - 19-07-2025_03-02 - Armando silla y luces de mi Setup 🪑 Peak (tal vez) Aprendiendo a hacer lomo saltado 🥩.png",
@@ -3680,7 +4207,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "18-06-2025_17-24 - 18-06-2025_18-45 - IRL en un Estudio de Medallo (ayuda) 🗣.png",
@@ -3704,7 +4232,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "18-02-2026_18-31 - 18-02-2026_23-35 - Geometry Dash... PERO tengo que SALTAR 🫩 Poppy Playtime Chapter 5 😨.jpg",
@@ -3728,7 +4257,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-12-2025_16-50 - 17-12-2025_18-40 - REACCIONANDO A LA FFC 🥊💪🕷️.jpg",
@@ -3752,7 +4282,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "17-12-2025_16-50 - 17-12-2025_18-40 - Ola 😃.jpg",
@@ -3776,7 +4307,58 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "17-12-2024_15-02 - 18-12-2024_02-57 - Furros que (se) corren De regreso al Minecraft ⛏️.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/17-12-2024_15-02 - 18-12-2024_02-57 - Furros que (se) corren De regreso al Minecraft ⛏️.png",
+    "image": "thumbnails/emikukis/17-12-2024_15-02 - 18-12-2024_02-57 - Furros que (se) corren De regreso al Minecraft ⛏️.png?v=1773487922",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Furros que (se) corren De regreso al Minecraft ⛏️",
+    "day": "17",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-17",
+    "startTime": "15:02",
+    "endTime": "02:57",
+    "durationMinutes": 715,
+    "durationText": "11h 55m",
+    "slug": "2024-12-17_15-02_furros-que-se-corren-de-regreso-al-minecraft",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "17-12-2024_14-00 - 17-12-2024_14-54 - Charlemos un ratito👽.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/17-12-2024_14-00 - 17-12-2024_14-54 - Charlemos un ratito👽.png",
+    "image": "thumbnails/emikukis/17-12-2024_14-00 - 17-12-2024_14-54 - Charlemos un ratito👽.png?v=1773491082",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Charlemos un ratito👽",
+    "day": "17",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-17",
+    "startTime": "14:00",
+    "endTime": "14:54",
+    "durationMinutes": 54,
+    "durationText": "54m",
+    "slug": "2024-12-17_14-00_charlemos-un-ratito",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-11-2025_13-47 - 17-11-2025_15-09 - Go gym con Yaniz.jpg",
@@ -3800,7 +4382,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-10-2025_21-52 - 18-10-2025_01-25 - Volví a COLOMBIA JAAA 😝🙌 DIA 2.jpg",
@@ -3824,7 +4407,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-09-2025_21-02 - 17-09-2025_23-24 - Mi batalla en Mobile Legends, soy Obsidia.jpg",
@@ -3848,7 +4432,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-07-2025_15-39 - 18-07-2025_01-02 - Haciéndome pestañas con Zully 🌷 Full variedad ajajai.png",
@@ -3872,7 +4457,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-07-2025_11-09 - 17-07-2025_15-32 - Haciendome pestañas con Zully 🌷🐈 Full variedad aiaiai.png",
@@ -3896,7 +4482,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-02-2026_20-30 - 17-02-2026_23-40 - Cocinando con SERA (obligandola a chambear).jpg",
@@ -3920,7 +4507,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-01-2026_19-37 - 18-01-2026_02-00 - Pichanga y... CHUPISTREAM 💀💀💀💀💀💀🍹.jpg",
@@ -3944,7 +4532,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "17-01-2026_12-49 - 17-01-2026_15-00 - Go Gym con los Papus 😼.jpg",
@@ -3968,7 +4557,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "16-12-2025_19-05 - 17-12-2025_00-10 - Seguimos Dispatch ☠️ Pichanga ⚽.jpg",
@@ -3992,7 +4582,58 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "16-12-2024_14-55 - 17-12-2024_00-15 - Salvando la NAVIDAD 🎅🏻 Juego de la BOMBA ft. AQUINO 💣.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/16-12-2024_14-55 - 17-12-2024_00-15 - Salvando la NAVIDAD 🎅🏻 Juego de la BOMBA ft. AQUINO 💣.png",
+    "image": "thumbnails/emikukis/16-12-2024_14-55 - 17-12-2024_00-15 - Salvando la NAVIDAD 🎅🏻 Juego de la BOMBA ft. AQUINO 💣.png?v=1773487922",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Salvando la NAVIDAD 🎅🏻 Juego de la BOMBA ft. AQUINO 💣",
+    "day": "16",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-16",
+    "startTime": "14:55",
+    "endTime": "00:15",
+    "durationMinutes": 560,
+    "durationText": "9h 20m",
+    "slug": "2024-12-16_14-55_salvando-la-navidad-juego-de-la-bomba-ft-aquino",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "16-12-2024_13-54 - 16-12-2024_14-54 - Stream antes de Salvando la NAVIDAD 🎅🏻.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/16-12-2024_13-54 - 16-12-2024_14-54 - Stream antes de Salvando la NAVIDAD 🎅🏻.png",
+    "image": "thumbnails/emikukis/16-12-2024_13-54 - 16-12-2024_14-54 - Stream antes de Salvando la NAVIDAD 🎅🏻.png?v=1773490959",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Stream antes de Salvando la NAVIDAD 🎅🏻",
+    "day": "16",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-16",
+    "startTime": "13:54",
+    "endTime": "14:54",
+    "durationMinutes": 60,
+    "durationText": "1h 0m",
+    "slug": "2024-12-16_13-54_stream-antes-de-salvando-la-navidad",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "16-10-2025_16-36 - 16-10-2025_18-38 - Volví a COLOMBIA JAAA 😝🙌.jpg",
@@ -4016,7 +4657,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "16-08-2025_19-34 - 17-08-2025_00-25 - Go Setup 🙌 Hoy MK World 🚗 Seguimos con Roblox 🧙‍♂️ Practicamos Tetris 🤖.png",
@@ -4040,7 +4682,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "16-07-2025_19-32 - 17-07-2025_02-31 - Armando mis luces 🙌 Peak (creo) ✨ Camitos con luces.png",
@@ -4064,7 +4707,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "16-06-2025_16-17 - 16-06-2025_20-15 - Un balatrito 🤡 Horario 📅 Devour 👺.png",
@@ -4088,7 +4732,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "16-02-2026_19-03 - 16-02-2026_23-25 - VOLVI... ME OPERÉ LA NARIZ (NARIZ REVEAL) 👃.jpg",
@@ -4112,7 +4757,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "16-01-2026_12-04 - 16-01-2026_13-40 - DIA 11-15 DE GYM DEL MES 🕷️ (traje al panzas) 🦁.jpg",
@@ -4136,7 +4782,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "15-12-2025_19-00 - 16-12-2025_00-25 - Los amo Gracias por TODO 😻💘.jpg",
@@ -4160,7 +4807,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "15-12-2024_17-16 - 15-12-2024_23-22 - Día I de TARMALAND 🦙 Vemos Disfraces Navideños 🎅🏻 Horario 📅.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/15-12-2024_17-16 - 15-12-2024_23-22 - Día I de TARMALAND 🦙 Vemos Disfraces Navideños 🎅🏻 Horario 📅.png",
+    "image": "thumbnails/emikukis/15-12-2024_17-16 - 15-12-2024_23-22 - Día I de TARMALAND 🦙 Vemos Disfraces Navideños 🎅🏻 Horario 📅.png?v=1773490774",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Día I de TARMALAND 🦙 Vemos Disfraces Navideños 🎅🏻 Horario 📅",
+    "day": "15",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-15",
+    "startTime": "17:16",
+    "endTime": "23:22",
+    "durationMinutes": 366,
+    "durationText": "6h 6m",
+    "slug": "2024-12-15_17-16_dia-i-de-tarmaland-vemos-disfraces-navidenos-horario",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "15-11-2025_18-33 - 15-11-2025_23-49 - Juegos pa ciegos.jpg",
@@ -4184,7 +4857,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "15-08-2025_16-46 - 15-08-2025_20-05 - Adiós Arequipa 🥹🇵🇪.png",
@@ -4208,7 +4882,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "15-07-2025_19-58 - 16-07-2025_01-07 - Recuperándome 🐣 Go por Silla Gamer y Luces.png",
@@ -4232,7 +4907,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "15-01-2026_19-10 - 15-01-2026_22-35 - Aprendiendo a hacer SUSHI 🍣.jpg",
@@ -4256,7 +4932,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "14-11-2025_20-20 - 15-11-2025_00-20 - Go Redbull evento con un invalido xdd.jpg",
@@ -4280,7 +4957,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "14-09-2025_16-13 - 14-09-2025_21-18 - Hoy full variedad, jueguitos, fsh fsh🤙amor y la Amistad 🇨🇴  DIA 2.jpg",
@@ -4304,7 +4982,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "14-08-2025_13-21 - 15-08-2025_03-20 - Primera vez en AREQUIPA 🇵🇪 Dia II.png",
@@ -4328,7 +5007,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "14-06-2025_16-11 - 14-06-2025_19-35 - Noche de chicas 👧💋 Balatreemos xd ♦️♥️♣️♥️.png",
@@ -4352,7 +5032,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "14-01-2026_20-29 - 14-01-2026_23-35 - DIA de WII 😃.jpg",
@@ -4376,7 +5057,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "13-12-2025_13-38 - 13-12-2025_15-35 - 😼 Directo para no perder la racha.jpg",
@@ -4400,7 +5082,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "13-12-2024_15-17 - 13-12-2024_19-17 - El TERROR de los BOTS 🗣️ Dedsafio OG Fortnite 👽.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/13-12-2024_15-17 - 13-12-2024_19-17 - El TERROR de los BOTS 🗣️ Dedsafio OG Fortnite 👽.png",
+    "image": "thumbnails/emikukis/13-12-2024_15-17 - 13-12-2024_19-17 - El TERROR de los BOTS 🗣️ Dedsafio OG Fortnite 👽.png?v=1773490682",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "El TERROR de los BOTS 🗣️ Dedsafio OG Fortnite 👽",
+    "day": "13",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-13",
+    "startTime": "15:17",
+    "endTime": "19:17",
+    "durationMinutes": 240,
+    "durationText": "4h 0m",
+    "slug": "2024-12-13_15-17_el-terror-de-los-bots-dedsafio-og-fortnite",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "13-11-2025_20-27 - 13-11-2025_23-37 - Soy Naruta 🔥 llego tarde xdd.jpg",
@@ -4424,7 +5132,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "13-09-2025_16-34 - 14-09-2025_00-32 - Hoy full variedad, jueguitos, fsh fsh🤙amor y la Amistad.jpg",
@@ -4448,7 +5157,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "13-08-2025_18-03 - 14-08-2025_01-45 - Primera vez en AREQUIPA 🇵🇪.png",
@@ -4472,7 +5182,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "13-07-2025_18-59 - 13-07-2025_22-40 - Estoy muy enferma strim corto go candado de amor owo.png",
@@ -4496,7 +5207,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "13-06-2025_17-18 - 13-06-2025_20-25 - Me meto al WHATSAPP de mis SEGUIDORES 💀.png",
@@ -4520,7 +5232,58 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "13-03-2026_19-48 - 13-03-2026_21-10 - GO CASINECHIII.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/13-03-2026_19-48 - 13-03-2026_21-10 - GO CASINECHIII.png",
+    "image": "thumbnails/emikukis/13-03-2026_19-48 - 13-03-2026_21-10 - GO CASINECHIII.png?v=1773476811",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "GO CASINECHIII",
+    "day": "13",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-13",
+    "startTime": "19:48",
+    "endTime": "21:10",
+    "durationMinutes": 82,
+    "durationText": "1h 22m",
+    "slug": "2026-03-13_19-48_go-casinechiii",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": "3.67 GB"
+  },
+  {
+    "filename": "13-03-2026_13-25 - 13-03-2026_19-45 - Go Gym 🏋‍♀️ [9-15] pa la racha.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/13-03-2026_13-25 - 13-03-2026_19-45 - Go Gym 🏋‍♀️ [9-15] pa la racha.png",
+    "image": "thumbnails/emikukis/13-03-2026_13-25 - 13-03-2026_19-45 - Go Gym 🏋‍♀️ [9-15] pa la racha.png?v=1773476691",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Go Gym 🏋‍♀️ [9-15] pa la racha",
+    "day": "13",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-13",
+    "startTime": "13:25",
+    "endTime": "19:45",
+    "durationMinutes": 380,
+    "durationText": "6h 20m",
+    "slug": "2026-03-13_13-25_go-gym-9-15-pa-la-racha",
+    "collabId": "13-03-2026_taekwondo",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": "16.7 GB"
   },
   {
     "filename": "13-02-2026_20-35 - 13-02-2026_22-50 - Ripie 💀.jpg",
@@ -4544,7 +5307,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "13-01-2026_18-46 - 13-01-2026_23-25 - DIA DE FOTOGRAFIA 📷.jpg",
@@ -4568,7 +5332,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "13-01-2026_12-55 - 13-01-2026_14-30 - Go gym (o sea webear en el gym) con el gordo y el tercer lugar.jpg",
@@ -4592,7 +5357,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "12-12-2025_14-09 - 12-12-2025_18-15 - Mirando ropa en el Centro de Medallo 💀.jpg",
@@ -4616,7 +5382,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "12-12-2024_15-03 - 12-12-2024_18-33 - Squid French Games 🕺TierList NOVELAS ❤️.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/12-12-2024_15-03 - 12-12-2024_18-33 - Squid French Games 🕺TierList NOVELAS ❤️.png",
+    "image": "thumbnails/emikukis/12-12-2024_15-03 - 12-12-2024_18-33 - Squid French Games 🕺TierList NOVELAS ❤️.png?v=1773490561",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Squid French Games 🕺TierList NOVELAS ❤️",
+    "day": "12",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-12",
+    "startTime": "15:03",
+    "endTime": "18:33",
+    "durationMinutes": 210,
+    "durationText": "3h 30m",
+    "slug": "2024-12-12_15-03_squid-french-games-tierlist-novelas",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "12-11-2025_14-13 - 13-11-2025_00-44 - Go Gym PIERNA 🔥🦵 Gamarra 💀 Zully Estreno 🎶.jpg",
@@ -4640,7 +5432,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "12-10-2025_16-25 - 12-10-2025_20-27 - Segundo dia en el SOFA 😝 COLOMBIA MEET AND GREET.jpg",
@@ -4664,7 +5457,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "12-09-2025_18-09 - 12-09-2025_23-17 - En Colombia Dia 5 Soy terca, estoy muy enferma xddd.jpg",
@@ -4688,7 +5482,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "12-08-2025_18-03 - 12-08-2025_22-42 - Armanding el Horario 🗓️ Rec a Disc 🟣 Probando la Switch 2 (MK world) 🚗.png",
@@ -4712,7 +5507,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "12-07-2025_20-32 - 13-07-2025_03-25 - Hola estoy enferma pero GO IRL buscando Pantallas 🖥️ Bañando a Bills 🐶 Lomo Saltado .png",
@@ -4736,7 +5532,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "12-06-2025_18-04 - 12-06-2025_21-15 - Reacciones 😎 Balatro por primera vez 🤩 Su PvZ 🌱.png",
@@ -4760,7 +5557,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "12-01-2026_18-11 - 12-01-2026_22-00 - Dia de Jueguitos 🙌🎮.jpg",
@@ -4784,7 +5582,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "12-01-2026_11-38 - 12-01-2026_13-05 - Gym con blumchis.jpg",
@@ -4808,7 +5607,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-12-2025_14-22 - 11-12-2025_14-50 - Primera vez en Guatape 😃.jpg",
@@ -4832,7 +5632,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "11-12-2024_17-56 - 11-12-2024_22-14 - HE VUELTO de la ELITE 🤵Reaccionando sus ARBOLES NAVIDEÑOS 🎄Horario 📅.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/11-12-2024_17-56 - 11-12-2024_22-14 - HE VUELTO de la ELITE 🤵Reaccionando sus ARBOLES NAVIDEÑOS 🎄Horario 📅.png",
+    "image": "thumbnails/emikukis/11-12-2024_17-56 - 11-12-2024_22-14 - HE VUELTO de la ELITE 🤵Reaccionando sus ARBOLES NAVIDEÑOS 🎄Horario 📅.png?v=1773490380",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "HE VUELTO de la ELITE 🤵Reaccionando sus ARBOLES NAVIDEÑOS 🎄Horario 📅",
+    "day": "11",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-11",
+    "startTime": "17:56",
+    "endTime": "22:14",
+    "durationMinutes": 258,
+    "durationText": "4h 18m",
+    "slug": "2024-12-11_17-56_he-vuelto-de-la-elite-reaccionando-sus-arboles-navidenos-horario",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-11-2025_17-52 - 12-11-2025_00-01 - Cocinando un Postre con Gloglo 👀 Go Jueguitos con las Girls 💅.jpg",
@@ -4856,7 +5682,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-10-2025_16-09 - 11-10-2025_19-21 - Primer día en el SOFA 😝 COLOMBIA.jpg",
@@ -4880,7 +5707,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "11-09-2025_16-59 - 11-09-2025_21-04 - En Colombia Dia 4  Simulador de F1.jpg",
@@ -4904,7 +5732,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-08-2025_17-26 - 12-08-2025_01-00 - Vs de Cocina 🍳 Escondite 🧍‍♀️.png",
@@ -4928,7 +5757,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-06-2025_20-58 - 12-06-2025_00-05 - Viendo MIS memes 🤢.png",
@@ -4952,7 +5782,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-03-2026_20-00 - 11-03-2026_23-45 - PRIMERA VEZ jugando THE LAST OF US 🤪.png",
@@ -4976,7 +5807,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-03-2026_13-11 - 11-03-2026_15-25 - HE VUELTO AL GYM 🏋‍♀️.png",
@@ -5000,7 +5832,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-01-2026_17-47 - 11-01-2026_20-45 - Go videitos (stream corto pq es domingo ps).jpg",
@@ -5024,7 +5857,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-01-2026_10-25 - 11-01-2026_12-05 - Go GYM 😼 jaaa.jpg",
@@ -5048,7 +5882,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "10-12-2025_16-18 - 10-12-2025_20-30 - He vuelto 😃 Dia de girls y Alumbrado.jpg",
@@ -5072,7 +5907,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "10-11-2025_14-50 - 10-11-2025_19-33 - Mototaxi y Mercado 🛵🚚 Cocinando Tallarines Verdes.jpg",
@@ -5096,7 +5932,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "10-09-2025_18-14 - 10-09-2025_23-50 - En Colombia Dia 3.jpg",
@@ -5120,7 +5957,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "10-07-2025_19-54 - 10-07-2025_23-43 - Peak con gloglo Mañana llego a PERU 😈.png",
@@ -5144,7 +5982,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "10-06-2025_17-58 - 10-06-2025_21-15 - Tamos en la CASA 🏠 Go Horario 📅.png",
@@ -5168,7 +6007,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "10-03-2026_19-01 - 11-03-2026_00-05 - Prendiendo para la RACHA 🔥 (2 dias SETUP WTF).png",
@@ -5192,7 +6032,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "09-12-2024_16-09 - 09-12-2024_21-03 - Stream de Chill.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/09-12-2024_16-09 - 09-12-2024_21-03 - Stream de Chill.png",
+    "image": "thumbnails/emikukis/09-12-2024_16-09 - 09-12-2024_21-03 - Stream de Chill.png?v=1773490296",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Stream de Chill",
+    "day": "09",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-09",
+    "startTime": "16:09",
+    "endTime": "21:03",
+    "durationMinutes": 294,
+    "durationText": "4h 54m",
+    "slug": "2024-12-09_16-09_stream-de-chill",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "09-10-2025_17-09 - 10-10-2025_00-36 - 1 día siendo Arquera ⚽️😼.jpg",
@@ -5216,7 +6082,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "09-09-2025_18-45 - 09-09-2025_23-06 - En Colombia Dia 2.jpg",
@@ -5240,7 +6107,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "09-07-2025_20-48 - 10-07-2025_01-42 - Peak con Webones 🥚 Videítos y Clips 😍.png",
@@ -5264,7 +6132,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "09-07-2025_18-18 - 09-07-2025_19-24 - Hay que hablar 😺.png",
@@ -5288,7 +6157,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "09-03-2026_19-00 - 10-03-2026_00-05 - Prendiendo para la RACHA 🔥 (HOY SETUP).png",
@@ -5312,7 +6182,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "08-12-2024_16-59 - 08-12-2024_20-05 - IRL antes de los SIMONES.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/08-12-2024_16-59 - 08-12-2024_20-05 - IRL antes de los SIMONES.png",
+    "image": "thumbnails/emikukis/08-12-2024_16-59 - 08-12-2024_20-05 - IRL antes de los SIMONES.png?v=1773490176",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "IRL antes de los SIMONES",
+    "day": "08",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-08",
+    "startTime": "16:59",
+    "endTime": "20:05",
+    "durationMinutes": 186,
+    "durationText": "3h 6m",
+    "slug": "2024-12-08_16-59_irl-antes-de-los-simones",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "08-11-2025_18-17 - 09-11-2025_00-15 - Full varidenchi.jpg",
@@ -5336,7 +6232,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "08-10-2025_17-28 - 09-10-2025_00-26 - Hoy si Quiropráctico 😼🙌🩺.jpg",
@@ -5360,7 +6257,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "08-09-2025_18-18 - 09-09-2025_00-19 - En Colombia Dia 1.jpg",
@@ -5384,7 +6282,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "08-08-2025_14-23 - 08-08-2025_19-35 - Machu PICHU 🇵🇪🤪.png",
@@ -5408,7 +6307,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "08-06-2025_13-42 - 08-06-2025_20-30 - ARGENTINA 🇦🇷.png",
@@ -5432,7 +6332,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "08-02-2026_00-30 - 08-02-2026_01-55 - Go Casinechi CODIGO EMIKUKIS.jpg",
@@ -5456,7 +6357,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "08-01-2026_16-00 - 09-01-2026_01-05 - PRIMERA vez en MANCORA (playita) 🏖.jpg",
@@ -5480,7 +6382,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-11-2025_17-49 - 08-11-2025_00-07 - un dia siendo MAID 💌.jpg",
@@ -5504,7 +6407,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-10-2025_17-36 - 08-10-2025_00-23 - Go Quiropráctico 🥼🩺 Se pasa para mañana.jpg",
@@ -5528,7 +6432,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-08-2025_12-57 - 07-08-2025_23-50 - Turisteando como mierda carajo 🇵🇪.png",
@@ -5552,7 +6457,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-07-2025_19-37 - 08-07-2025_01-27 - Unboxing Cama 🛏️ Comprando edredones D ➡️ Just Dance 💃.png",
@@ -5576,7 +6482,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-06-2025_19-45 - 07-06-2025_23-20 - ARGENTINA 🇦🇷.png",
@@ -5600,7 +6507,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "07-06-2025_16-35 - 07-06-2025_17-45 - ARGENTINA 🇦🇷.png",
@@ -5624,7 +6532,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "07-03-2026_22-52 - 08-03-2026_00-35 - Las Curvas Doradas McDonald’s GP Australia 🏎️🍟.png",
@@ -5648,7 +6557,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-02-2026_21-04 - 08-02-2026_00-15 - Haciendo pizza 🍕 Videitos 😎Mannys 🧑‍🍳.jpg",
@@ -5672,7 +6582,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-02-2026_14-41 - 07-02-2026_16-41 - 😼 GYM para la RACHA [8-15].jpg",
@@ -5696,7 +6607,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-12-2025_11-14 - 06-12-2025_12-35 - PRECASA DE LOS STREAMERS.jpg",
@@ -5720,7 +6632,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-11-2025_14-18 - 07-11-2025_01-08 - REACCIÓN A LA FFC 🕷️📣.jpg",
@@ -5744,7 +6657,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-10-2025_18-22 - 07-10-2025_00-46 - Cenando en siete sopas para dormir bien alimentados.jpg",
@@ -5768,7 +6682,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-10-2025_13-02 - 06-10-2025_15-59 - Volviendo al GYM 🥹🙌.jpg",
@@ -5792,7 +6707,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-09-2025_18-02 - 06-09-2025_22-44 - Milloking💰🤑EsperinKabros👨‍🔬👩‍🔬.jpg",
@@ -5816,7 +6732,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-08-2025_07-42 - 07-08-2025_00-50 - Desayuno en un MERCADO 🍲 Comprando ropa en Cusco 🇵🇪 Cuatrimotos 🏍 (no dormí, god of hambre).png",
@@ -5840,7 +6757,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-07-2025_19-25 - 07-07-2025_02-02 - Go Cocinando ft Gloglo pero con Mini Manos 👩‍🍳👨‍🍳.png",
@@ -5864,7 +6782,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-06-2025_19-08 - 06-06-2025_21-20 - ARGENTINA 🇦🇷.png",
@@ -5888,7 +6807,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": "special"
+    "event": "special",
+    "size": ""
   },
   {
     "filename": "06-03-2026_17-39 - 06-03-2026_23-20 - IRL en la playita (srry xD).jpg",
@@ -5906,13 +6826,14 @@
     "durationMinutes": 341,
     "durationText": "5h 41m",
     "slug": "2026-03-06_17-39_irl-en-la-playita-srry-xd",
-    "collabId": "",
+    "collabId": "06-03-2026_playa",
     "highlightCount": 0,
     "highlights": [],
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-02-2026_12-21 - 06-02-2026_13-40 - 😼 GYM para la RACHA [7-15].jpg",
@@ -5936,7 +6857,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-12-2025_11-36 - 05-12-2025_12-45 - Post Casa de los Streamers.jpg",
@@ -5960,7 +6882,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "05-12-2024_17-53 - 05-12-2024_21-23 - Día Tranqui 😼 MAÑANA ME VOY A CHICAGO ✈️.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/05-12-2024_17-53 - 05-12-2024_21-23 - Día Tranqui 😼 MAÑANA ME VOY A CHICAGO ✈️.png",
+    "image": "thumbnails/emikukis/05-12-2024_17-53 - 05-12-2024_21-23 - Día Tranqui 😼 MAÑANA ME VOY A CHICAGO ✈️.png?v=1773489863",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Día Tranqui 😼 MAÑANA ME VOY A CHICAGO ✈️",
+    "day": "05",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-05",
+    "startTime": "17:53",
+    "endTime": "21:23",
+    "durationMinutes": 210,
+    "durationText": "3h 30m",
+    "slug": "2024-12-05_17-53_dia-tranqui-manana-me-voy-a-chicago",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-11-2025_19-53 - 06-11-2025_00-04 - Peak ft WEBONES 🥚 Su ROBLOX 🚸 Dispatch 😎.jpg",
@@ -5984,7 +6932,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-11-2025_14-37 - 05-11-2025_16-36 - Go pierna con SEB.jpg",
@@ -6008,7 +6957,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-09-2025_17-09 - 05-09-2025_23-22 - Detector de Metales en la PLAYA🏖️MILLOKING💰🤑Pichanga⚽.jpg",
@@ -6032,7 +6982,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-08-2025_17-19 - 05-08-2025_22-21 - Mi primer dia en CUSCO 🇵🇪.png",
@@ -6056,7 +7007,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-03-2026_19-00 - 05-03-2026_23-10 - Prendiendo para la racha.png",
@@ -6080,7 +7032,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-02-2026_20-12 - 05-02-2026_21-10 - OWA Prendiendo para la RACHA 😃.jpg",
@@ -6104,7 +7057,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-12-2025_11-22 - 04-12-2025_12-49 - Go desayuno parchao.jpg",
@@ -6128,7 +7082,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-12-2025_00-29 - 04-12-2025_01-40 - Post House Tour y Hablemos cositas 😃.jpg",
@@ -6152,7 +7107,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "04-12-2024_17-30 - 04-12-2024_20-42 - Colab con el Loco del Colchon 🥸.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/04-12-2024_17-30 - 04-12-2024_20-42 - Colab con el Loco del Colchon 🥸.png",
+    "image": "thumbnails/emikukis/04-12-2024_17-30 - 04-12-2024_20-42 - Colab con el Loco del Colchon 🥸.png?v=1773489522",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Colab con el Loco del Colchon 🥸",
+    "day": "04",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-04",
+    "startTime": "17:30",
+    "endTime": "20:42",
+    "durationMinutes": 192,
+    "durationText": "3h 12m",
+    "slug": "2024-12-04_17-30_colab-con-el-loco-del-colchon",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-11-2025_17-58 - 04-11-2025_23-26 - IRL carritos con luces y bolos creo.jpg",
@@ -6176,7 +7157,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-10-2025_18-33 - 04-10-2025_23-46 - Le damos al Super Mario Maker 2.jpg",
@@ -6200,7 +7182,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-09-2025_17-17 - 04-09-2025_23-46 - Rompemos una SANDIA con LIGAS🍉Quien quiere ser💰🤑.jpg",
@@ -6224,7 +7207,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-08-2025_18-05 - 04-08-2025_23-44 - Me predicen el futuro 🧙‍♂️ Me paltee mano me paltee.png",
@@ -6248,7 +7232,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-07-2025_20-20 - 05-07-2025_02-15 - Organizando Maleta 🧳 Moto 🏍 Go pinchanga ⚽️.png",
@@ -6272,7 +7257,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-03-2026_17-26 - 04-03-2026_22-35 - Comprando UTILES ESCOLARES ft. SERA 📖📚.png",
@@ -6296,7 +7282,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-01-2026_16-12 - 04-01-2026_19-25 - Jugando TENIS por PRIMERA VEZ 🎾.jpg",
@@ -6320,7 +7307,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "03-12-2024_17-14 - 03-12-2024_23-02 - Día tranqui de Reacciones 😈 Terminamos de decorar el arbol 🎄.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/03-12-2024_17-14 - 03-12-2024_23-02 - Día tranqui de Reacciones 😈 Terminamos de decorar el arbol 🎄.png",
+    "image": "thumbnails/emikukis/03-12-2024_17-14 - 03-12-2024_23-02 - Día tranqui de Reacciones 😈 Terminamos de decorar el arbol 🎄.png?v=1773489347",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Día tranqui de Reacciones 😈 Terminamos de decorar el arbol 🎄",
+    "day": "03",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-03",
+    "startTime": "17:14",
+    "endTime": "23:02",
+    "durationMinutes": 348,
+    "durationText": "5h 48m",
+    "slug": "2024-12-03_17-14_dia-tranqui-de-reacciones-terminamos-de-decorar-el-arbol",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "03-11-2025_18-38 - 04-11-2025_00-27 - Setup y Cocinando Aji de GALLINA 😃.jpg",
@@ -6344,7 +7357,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "03-11-2025_13-17 - 03-11-2025_14-54 - Sufriendo en el GYM.jpg",
@@ -6368,7 +7382,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "03-10-2025_19-28 - 04-10-2025_01-51 - En el evento de Matt 💃🏻.jpg",
@@ -6392,7 +7407,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "03-09-2025_18-41 - 03-09-2025_23-48 - Hoy si REACCIONES☠️99 Noches en el Bosque ROBLOX y +.jpg",
@@ -6416,7 +7432,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "03-09-2025_13-09 - 03-09-2025_14-48 - Dia de culo con EMET💀.jpg",
@@ -6440,7 +7457,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "03-07-2025_20-00 - 04-07-2025_01-47 - Buscando CAMAS 🛏 Cocinando Causa por PRIMERA VEZ 🐱.png",
@@ -6464,7 +7482,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "03-06-2025_18-06 - 03-06-2025_21-25 - Jugamo con la papa.png",
@@ -6488,7 +7507,33 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "02-12-2024_18-29 - 02-12-2024_22-53 - Armando el Arbol Navideño 🎅🏻 por PRIMERA VEZ D 🎄.png",
+    "streamer": "emikukis",
+    "streamKey": "emikukis/02-12-2024_18-29 - 02-12-2024_22-53 - Armando el Arbol Navideño 🎅🏻 por PRIMERA VEZ D 🎄.png",
+    "image": "thumbnails/emikukis/02-12-2024_18-29 - 02-12-2024_22-53 - Armando el Arbol Navideño 🎅🏻 por PRIMERA VEZ D 🎄.png?v=1773489210",
+    "avatar": "avatars/emikukis.png?v=1773035545",
+    "title": "Armando el Arbol Navideño 🎅🏻 por PRIMERA VEZ D 🎄",
+    "day": "02",
+    "month": "12",
+    "year": "2024",
+    "date": "2024-12-02",
+    "startTime": "18:29",
+    "endTime": "22:53",
+    "durationMinutes": 264,
+    "durationText": "4h 24m",
+    "slug": "2024-12-02_18-29_armando-el-arbol-navideno-por-primera-vez-d",
+    "collabId": "",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "missing",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-10-2025_17-41 - 03-10-2025_00-17 - GO IRL 😎 Organizando compras y la cocina ☠️.jpg",
@@ -6512,7 +7557,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-09-2025_18-19 - 02-09-2025_22-54 - Preguntas y Respuestas🤔Parque de las Aguas o Setup ns🙌.jpg",
@@ -6536,7 +7582,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-08-2025_13-42 - 02-08-2025_16-50 - Arreglandome para la NOCHE DORADA 🥊👑.png",
@@ -6560,7 +7607,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-07-2025_18-33 - 03-07-2025_01-23 - Estoy en Perú XDD!! 🇵🇪 Noticias y Gatitos 🐱.png",
@@ -6584,7 +7632,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-06-2025_18-16 - 02-06-2025_21-35 - oLA 😄 .png",
@@ -6608,7 +7657,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-03-2026_19-05 - 02-03-2026_23-25 - Prendiendo para la racha.jpg",
@@ -6632,7 +7682,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-02-2026_18-50 - 02-02-2026_22-45 - Prendiendo para la racha.jpg",
@@ -6656,7 +7707,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-01-2026_20-17 - 02-01-2026_22-50 - COCINANDO siendo CIEGOS, SORDOS Y MUDOS 👩‍🍳👨‍🍳🍳 ft. Mictia y Kendo.jpg",
@@ -6680,7 +7732,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-01-2026_12-19 - 02-01-2026_13-35 - DE VUELTA AL GYM Y ME TRAJE AL GORDO.jpg",
@@ -6704,7 +7757,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "01-11-2025_17-38 - 01-11-2025_23-36 - Casa de TERROR 💀.jpg",
@@ -6728,7 +7782,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "01-09-2025_14-15 - 01-09-2025_16-33 - go gym pierna🦵.jpg",
@@ -6752,7 +7807,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "01-08-2025_17-57 - 01-08-2025_22-10 - Me quedé fuera.png",
@@ -6776,7 +7832,8 @@
     "status": "missing",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "01-08-2025_00-22 - 01-08-2025_02-28 - Haciéndome las pestañas 👀 Dia de Papa e Hijas 👨‍👧‍👧 ft. Zein y Zully.png",
@@ -6800,7 +7857,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "01-02-2026_19-42 - 01-02-2026_23-30 - Domingo no familiar xd.jpg",
@@ -6824,7 +7882,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-01-2026_11-50 - 28-01-2026_12-05 - GO GYM DÍA 7  GOD OF YAPE 🔥.jpg",
@@ -6848,7 +7907,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-01-2026_13-00 - 26-01-2026_16-30 - GYM DÍA 6 VUAAAAAMOS💪🏼  GOD OF YAPE 🔥.jpg",
@@ -6872,7 +7932,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "25-01-2026_20-11 - 26-01-2026_00-10 - ROMPO SOBRES POKEMON POR SUBS  GOD OF YAPE 🔥.jpg",
@@ -6896,7 +7957,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-01-2026_12-57 - 24-01-2026_19-00 - GYM DÍA 5 + ABRIENDO MÁS CARTAS POKEMON  GOD OF YAPE 🔥.jpg",
@@ -6920,7 +7982,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-01-2026_12-46 - 23-01-2026_18-45 - GYM DÍA 4 + ABRIENDO CARTAS POKEMON GOD OF YAPE 🔥.jpg",
@@ -6944,7 +8007,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "22-01-2026_14-00 - 22-01-2026_19-00 - ABRIENDO CARTAS POKEMON + VOLLEY Y BASKET  GOD OF YAPE 🔥.jpg",
@@ -6968,7 +8032,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-01-2026_11-49 - 21-01-2026_16-35 - GYM DÍA 3 VUAAAAMOS  GOD OF YAPE 🔥.jpg",
@@ -6992,7 +8057,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-01-2026_16-01 - 20-01-2026_22-00 - YA FUI AL GYM AHORA TOCA VOLLEY  GOD OF YAPE 🔥.jpg",
@@ -7016,7 +8082,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-01-2026_11-30 - 19-01-2026_16-30 - MI TRABAJO HA ACABADO 😢 GO GYM🤩 GOD OF YAPE 🔥.jpg",
@@ -7040,7 +8107,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-01-2026_23-02 - 18-01-2026_02-05 - STREAM PIKACHU🤩 GOD OF YAPE 🔥.jpg",
@@ -7064,7 +8132,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-02-2026_11-49 - 06-02-2026_16-28 - GYM DÍA 11 Y VEMOS QUÉ SALE.png",
@@ -7088,7 +8157,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-01-2026_11-28 - 07-01-2026_12-33 - RECONQUISTANDO A CRAFT  SE VIENEN STREAMS DE CALISTENIA Y GYM  GOD OF YAPE 🔥.jpg",
@@ -7112,7 +8182,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-03-2026_18-15 - 05-03-2026_22-50 - ABRIMOS CARTECHIS Y LUEGO JUEVES DE PATAS.png",
@@ -7136,7 +8207,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-03-2026_21-00 - 04-03-2026_22-00 - GO QUÉ SALE.png",
@@ -7160,31 +8232,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "31-12-2025_18-21 - 31-12-2025_22-30 - MI ULTIMO STREAM DEL 2025.jpg",
-    "streamer": "mattkeelan",
-    "streamKey": "mattkeelan/31-12-2025_18-21 - 31-12-2025_22-30 - MI ULTIMO STREAM DEL 2025.jpg",
-    "image": "thumbnails/mattkeelan/31-12-2025_18-21 - 31-12-2025_22-30 - MI ULTIMO STREAM DEL 2025.jpg?v=1772979452",
-    "avatar": "avatars/mattkeelan.png?v=1773068098",
-    "title": "MI ULTIMO STREAM DEL 2025",
-    "day": "31",
-    "month": "12",
-    "year": "2025",
-    "date": "2025-12-31",
-    "startTime": "18:21",
-    "endTime": "22:30",
-    "durationMinutes": 249,
-    "durationText": "4h 9m",
-    "slug": "2025-12-31_18-21_mi-ultimo-stream-del-2025",
-    "collabId": "",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-01-2026_22-42 - 29-01-2026_02-25 - CHUPISTREAM CUMPLE DE SERA.jpg",
@@ -7208,7 +8257,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "22-01-2026_15-32 - 23-01-2026_01-05 - FULL IRL HOY - VOLLEY CON LOS CHICOS LUEGO COSAS DE CARROS GOD.jpg",
@@ -7226,13 +8276,14 @@
     "durationMinutes": 573,
     "durationText": "9h 33m",
     "slug": "2026-01-22_15-32_full-irl-hoy-volley-con-los-chicos-luego-cosas-de-carros-god",
-    "collabId": "",
+    "collabId": "22-01-2026_volley",
     "highlightCount": 0,
     "highlights": [],
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "15-01-2026_18-26 - 16-01-2026_00-25 - PREPARANDO MAKIS CON GLOGLO Y PANDI Y LUEGO JUNTE CARROS CON EMET ANTHONY MATNAROK.jpg",
@@ -7256,7 +8307,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "05-01-2026_18-35 - 06-01-2026_00-50 - MI FIESTA DE CUMPLEAÑOS.jpg",
@@ -7274,13 +8326,14 @@
     "durationMinutes": 375,
     "durationText": "6h 15m",
     "slug": "2026-01-05_18-35_mi-fiesta-de-cumpleanos",
-    "collabId": "",
+    "collabId": "05-01-2026_cumple",
     "highlightCount": 0,
     "highlights": [],
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-01-2026_14-56 - 04-01-2026_19-30 - RETO JUGANDO TENNIS VS GLOGLO Y EMIKUKIS FT. SERA.jpg",
@@ -7304,7 +8357,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-01-2026_11-46 - 26-01-2026_16-35 - ENTREMIENTO CON EMIKUKISS.jpg",
@@ -7328,7 +8382,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-01-2026_13-09 - 23-01-2026_15-35 - hoy somos en reaciones a los fisicos de los seguidores naturalitos.jpg",
@@ -7352,7 +8407,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "30-01-2026_12-24 - 30-01-2026_14-25 - Ultimo stream de la semana antes del reto del exilio..jpg",
@@ -7376,7 +8432,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-01-2026_11-35 - 28-01-2026_15-10 - Hoy grabamos para YouTube,pecho con Naturalito y Profe Nalgas (30 semanas out).jpg",
@@ -7400,7 +8457,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-01-2026_11-50 - 26-01-2026_16-00 - En el exilio a 30 semanas para cumplir con mi destino. Piernas con amigos mas comida y gaming.jpg",
@@ -7424,7 +8482,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-01-2026_11-45 - 24-01-2026_19-10 - Hoy grabamos para YouTube, entrenamiento de espalda y hombros mas comida y sorteo.jpg",
@@ -7448,7 +8507,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "23-01-2026_12-12 - 23-01-2026_19-35 - Entrenamiento de piernas en el otro mundo.jpg",
@@ -7472,7 +8532,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "21-01-2026_12-07 - 21-01-2026_22-05 - Miércoles de pectoral, otro día mirando al abismo.jpg",
@@ -7496,7 +8557,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-01-2026_11-18 - 20-01-2026_19-30 - Entrenamiento en el exilio Ft Bebote mas compras y gaming.jpg",
@@ -7520,7 +8582,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "19-01-2026_12-12 - 19-01-2026_20-05 - El exilio, Reunión de los guerreros, entrenamiento de piernas mas reacciones y gaming..jpg",
@@ -7544,7 +8607,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-01-2026_12-07 - 17-01-2026_18-05 - Temporada 3 El exilio - Capitulo 1 Encerrado mil años con mis pensamientos..jpg",
@@ -7568,7 +8632,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "16-01-2026_11-43 - 16-01-2026_17-55 - Entrenamiento en el exilio tengo que cumplir con mi destino..jpg",
@@ -7592,7 +8657,33 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "13-03-2026_13-17 - 13-03-2026_15-05 - Viernes de Pierna v grabamos para YouTube!.png",
+    "streamer": "seeb99",
+    "streamKey": "seeb99/13-03-2026_13-17 - 13-03-2026_15-05 - Viernes de Pierna v grabamos para YouTube!.png",
+    "image": "thumbnails/seeb99/13-03-2026_13-17 - 13-03-2026_15-05 - Viernes de Pierna v grabamos para YouTube!.png?v=1773477303",
+    "avatar": "avatars/seeb99.png?v=1773035613",
+    "title": "Viernes de Pierna v grabamos para YouTube!",
+    "day": "13",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-13",
+    "startTime": "13:17",
+    "endTime": "15:05",
+    "durationMinutes": 108,
+    "durationText": "1h 48m",
+    "slug": "2026-03-13_13-17_viernes-de-pierna-v-grabamos-para-youtube",
+    "collabId": "13-03-2026_taekwondo",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": "2.71 GB"
   },
   {
     "filename": "13-01-2026_12-45 - 13-01-2026_20-15 - Entrenando a Glogloking y emi mas destrucción de pecho con el ProfeTubo.jpg",
@@ -7616,7 +8707,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "12-01-2026_11-25 - 12-01-2026_19-40 - Arrancamos la semana Ft Gloglo y Emi v a mi me toca piernas hoy si sorteo XD.jpg",
@@ -7640,13 +8732,14 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-03-2026_13-17 - 11-03-2026_15-05 - Miércoles de Pectoral Y el regreso triunfal de Emi.png",
     "streamer": "seeb99",
     "streamKey": "seeb99/11-03-2026_13-17 - 11-03-2026_15-05 - Miércoles de Pectoral Y el regreso triunfal de Emi.png",
-    "image": "thumbnails/seeb99/11-03-2026_13-17 - 11-03-2026_15-05 - Miércoles de Pectoral Y el regreso triunfal de Emi.png?v=1773297937",
+    "image": "thumbnails/seeb99/11-03-2026_13-17 - 11-03-2026_15-05 - Miércoles de Pectoral Y el regreso triunfal de Emi.png?v=1773420488",
     "avatar": "avatars/seeb99.png?v=1773035613",
     "title": "Miércoles de Pectoral Y el regreso triunfal de Emi",
     "day": "11",
@@ -7664,7 +8757,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "11-01-2026_10-01 - 11-01-2026_12-15 - Entrenando domingo Ft Gloglo y Emi (yo descanso xd).jpg",
@@ -7688,7 +8782,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "07-02-2026_12-32 - 07-02-2026_16-00 - Ultimo entrenamiento de la semana (29 weeks out).jpg",
@@ -7712,7 +8807,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "06-02-2026_12-08 - 06-02-2026_18-20 - Entrenamiento de piernas en el exilio con el profe nalgas para YouTube.jpg",
@@ -7736,7 +8832,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "02-01-2026_12-04 - 02-01-2026_08-12 - Primer entrenamiento del 2026 Ft Emikukiss! Mas tarde reaccionando y gaming..jpg",
@@ -7760,7 +8857,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-02-2026_21-20 - 28-02-2026_21-38 - 🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰.jpg",
@@ -7784,31 +8882,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "28-02-2026_21-11 - 28-02-2026_21-14 - 🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰.jpg",
-    "streamer": "seraphine_yue",
-    "streamKey": "seraphine_yue/28-02-2026_21-11 - 28-02-2026_21-14 - 🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰.jpg",
-    "image": "thumbnails/seraphine_yue/28-02-2026_21-11 - 28-02-2026_21-14 - 🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰.jpg?v=1772979674",
-    "avatar": "avatars/seraphine_yue.png?v=1773035590",
-    "title": "🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰",
-    "day": "28",
-    "month": "02",
-    "year": "2026",
-    "date": "2026-02-28",
-    "startTime": "21:11",
-    "endTime": "21:14",
-    "durationMinutes": 3,
-    "durationText": "3m",
-    "slug": "2026-02-28_21-11_haciendo-arepas-con-emikukis-y-airita",
-    "collabId": "",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "28-02-2026_20-54 - 28-02-2026_21-10 - 🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰.jpg",
@@ -7832,31 +8907,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
-  },
-  {
-    "filename": "28-02-2026_20-50 - 28-02-2026_20-51 - 🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰.jpg",
-    "streamer": "seraphine_yue",
-    "streamKey": "seraphine_yue/28-02-2026_20-50 - 28-02-2026_20-51 - 🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰.jpg",
-    "image": "thumbnails/seraphine_yue/28-02-2026_20-50 - 28-02-2026_20-51 - 🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰.jpg?v=1772979650",
-    "avatar": "avatars/seraphine_yue.png?v=1773035590",
-    "title": "🐰HACIENDO AREPAS CON EMIKUKIS Y AIRITA🐰",
-    "day": "28",
-    "month": "02",
-    "year": "2026",
-    "date": "2026-02-28",
-    "startTime": "20:50",
-    "endTime": "20:51",
-    "durationMinutes": 1,
-    "durationText": "1m",
-    "slug": "2026-02-28_20-50_haciendo-arepas-con-emikukis-y-airita",
-    "collabId": "",
-    "highlightCount": 0,
-    "highlights": [],
-    "status": "available",
-    "notes": "",
-    "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "26-02-2026_18-48 - 26-02-2026_23-40 - 🐰ESTRENO DE LA CANCION DE EMIKUKIS✨❤️.jpg",
@@ -7880,7 +8932,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "24-02-2026_18-54 - 24-02-2026_22-55 - 🐰EN ARENALES CON FT EMIKUKIS ✨❤️.jpg",
@@ -7904,7 +8957,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "20-02-2026_19-06 - 21-02-2026_00-30 - 🐰PIJAMADA THERIAN CON AMIGAS 💀.jpg",
@@ -7928,7 +8982,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "17-02-2026_20-28 - 17-02-2026_23-35 - 🗣️ COCINANDO CON EMIKUKIS ❤️.jpg",
@@ -7952,7 +9007,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "10-03-2026_17-15 - 10-03-2026_22-55 - ✨IRL COCINA CON BELABAST y WII CON EMI ❤️.png",
@@ -7976,7 +9032,8 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
   },
   {
     "filename": "04-03-2026_17-20 - 04-03-2026_22-35 - 🐰 IRL COMPRANDO UTILES ESCOLARES Y COMIENDO CHIFA🐰.png",
@@ -8000,6 +9057,57 @@
     "status": "available",
     "notes": "",
     "visibility": "public",
-    "event": ""
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "06-03-2026_20-02 - 06-03-2026_23-45 - irl en playita.png",
+    "streamer": "zullyycs",
+    "streamKey": "zullyycs/06-03-2026_20-02 - 06-03-2026_23-45 - irl en playita.png",
+    "image": "thumbnails/zullyycs/06-03-2026_20-02 - 06-03-2026_23-45 - irl en playita.png?v=1773419757",
+    "avatar": "avatars/zullyycs.png?v=1773421534",
+    "title": "irl en playita",
+    "day": "06",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-06",
+    "startTime": "20:02",
+    "endTime": "23:45",
+    "durationMinutes": 223,
+    "durationText": "3h 43m",
+    "slug": "2026-03-06_20-02_irl-en-playita",
+    "collabId": "06-03-2026_playa",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
+  },
+  {
+    "filename": "06-03-2026_14-11 - 06-03-2026_20-05 - irl en playita.png",
+    "streamer": "zullyycs",
+    "streamKey": "zullyycs/06-03-2026_14-11 - 06-03-2026_20-05 - irl en playita.png",
+    "image": "thumbnails/zullyycs/06-03-2026_14-11 - 06-03-2026_20-05 - irl en playita.png?v=1773420668",
+    "avatar": "avatars/zullyycs.png?v=1773421534",
+    "title": "irl en playita",
+    "day": "06",
+    "month": "03",
+    "year": "2026",
+    "date": "2026-03-06",
+    "startTime": "14:11",
+    "endTime": "20:05",
+    "durationMinutes": 354,
+    "durationText": "5h 54m",
+    "slug": "2026-03-06_14-11_irl-en-playita",
+    "collabId": "06-03-2026_playa",
+    "highlightCount": 0,
+    "highlights": [],
+    "status": "available",
+    "notes": "",
+    "visibility": "public",
+    "event": "",
+    "size": ""
   }
 ]
